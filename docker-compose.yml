@@ -6,4 +6,4 @@ services:
     ports:
       - "3002:80"
     labels:
-      - "com.dpd师.sns=subdomain:wiki"
+      - "com.dpdr.sns=subdomain:wiki"

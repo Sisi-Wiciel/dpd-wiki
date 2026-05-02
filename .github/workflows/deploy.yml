@@ -42,9 +42,9 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/dpd-wiki:latest
-            ghcr.io/${{ github.repository_owner }}/dpd-wiki:${{ github.sha }}
-          cache-from: type=registry,ref=ghcr.io/${{ github.repository_owner }}/dpd-wiki:latest
+            ghcr.io/${{ toLowerCase(github.repository_owner) }}/dpd-wiki:latest
+            ghcr.io/${{ toLowerCase(github.repository_owner) }}/dpd-wiki:${{ github.sha }}
+          cache-from: type=registry,ref=ghcr.io/${{ toLowerCase(github.repository_owner) }}/dpd-wiki:latest
           cache-to: type=inline
 
       - name: Deploy to server
