@@ -1,0 +1,60 @@
+---
+sidebar_position: 2
+title: 症状
+description: 解离性人格解体/现实解体障碍（DPDR）的症状表现、分型及临床特征相关研究文献。
+---
+
+# 症状
+
+DPDR的症状表现多样且异质性高，可表现为去人格化体验、去现实化体验、感知觉改变、时间感紊乱等多个维度。本分类收录关于DPDR症状分型、临床特征及评估相关的研究文献。
+
+## 文献列表
+
+### [1] Symptom variability in depersonalization–derealization disorder: A latent profile analysis
+**作者**: Millman L.; Hunter E.; Orgs G.; David A.; Terhune D.  
+**年份**: 2021  
+**DOI**: [10.1002/jclp.23241](https://doi.org/10.1002/jclp.23241)  
+**原文链接**: [https://onlinelibrary.wiley.com/doi/10.1002/jclp.23241](https://onlinelibrary.wiley.com/doi/10.1002/jclp.23241)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/jclp.23241](https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/jclp.23241)  
+
+**摘要（中文）**: 本研究对303名DDD患者进行潜剖面分析，识别出五个离散亚组：三个不同严重程度亚组和两个以不同解离症状为特征的中重度亚组。五个亚组在非解离症状、共病及诊断诱因方面存在可靠差异，但对焦虑等其他症状无显著差异。研究结果提示DDD存在三种不同亚型，其区别在于脱离和隔离症状的差异表达。
+
+**摘要（英文）**: Objective: Depersonalization–derealization disorder (DDD) is characterized by diverse symptomatology overlapping with anxiety and dissociative disorders, but the sources of this variability are poorly understood. This study aims to determine whether symptom heterogeneity is attributable to the presence of latent subgroups. Method: We applied latent profile analysis to psychometric measures of anxiety, depersonalization–derealization, and dissociation in 303 DDD patients. Results: The analysis yielded evidence for five discrete subgroups: three of varying severity levels and two moderate‐to‐severe classes characterized by differential dissociative symptoms. The five classes reliably differed on several nondissociative symptoms, comorbidities, and factors precipitating their diagnosis but did not significantly differ in other symptoms including anxiety. Conclusion: These results suggest the presence of three distinct DDD subtypes in the upper severity range that are distinguished by differential expression of detachment and compartmentalization symptoms. Further elucidation of these subtypes has potential implications for the etiology, mechanisms, and treatment of DDD.
+
+**一句话概括**: DDD患者存在五个症状亚型，严重程度和隔离症状表达不同。
+
+---
+
+### [2] De-constructing depersonalization: further evidence for symptom clusters
+**作者**: Simeon D.; Kozin D.; Segal K.; Lerch B.; Dujour R.; Giesbrecht T.  
+**年份**: 2008  
+**DOI**: [10.1016/j.psychres.2007.07.007](https://doi.org/10.1016/j.psychres.2007.07.007)  
+**原文链接**: 无  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.psychres.2007.07.007](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.psychres.2007.07.007)  
+
+**摘要（中文）**: DSM-IV-TR仅用单一症状标准定义去人格化障碍，未能充分反映障碍的复杂性。对394名患者进行剑桥去人格化量表分析，提取出五个因子：麻木、自我非真实感、感知觉改变、周围非真实感和时间解体，为更精确诊断提供依据。
+
+**摘要（英文）**: Depersonalization disorder is defined in the DSM-IV-TR using a single symptom criterion, which does not do justice to the phenomenological complexity of the disorder. In 394 affected adults, the Cambridge Depersonalization Scale yielded five factors (numbing, unreality of self, perceptual alterations, unreality of surroundings, and temporal disintegration), put forth as symptom criteria for a better diagnosis of depersonalization disorder.
+
+**一句话概括**: 去人格化症状包含五个因子：麻木、自我非真实感、感知觉改变、周围非真实感、时间解体。
+
+---
+
+### [3] Clinical characteristics of 217 Chinese cases with depersonalization/derealization disorder
+**作者**: Song M.; Zheng S.; Song N.; Zhu H.; Jia Y.; Dai Z.; Liu X.; Wu Z.; Duan Y.; Huang Z.; Chen J.; Jia H.  
+**年份**: 2024  
+**DOI**: [10.1186/s12888-024-06028-z](https://doi.org/10.1186/s12888-024-06028-z)  
+**原文链接**: [https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06028-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06028-z)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06028-z](https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06028-z)  
+
+**摘要（中文）**: 本研究描述了217例中国DPD患者的临床特征：男性占比高、起病早、症状以现实解体为主、社会心理功能损害显著、就医和诊断延迟时间长且与症状严重程度相关。不良童年经历与症状水平显著相关。研究强调DPD是一种严重但被忽视的精神障碍。
+
+**摘要（英文）**: Depersonalization/derealization disorder (DPD) is a prevalent yet inadequately understood clinical condition characterized by a recurrent or persistent sense of unreality. This study aims to provide insight into DPD through descriptive and comparative analyses involving a large group of Chinese participants. The socio-demographic details (age, gender proportion, education, occupational status, marital status), depersonalized and dissociative symptom characteristics (symptomatic factors or subscales of the Cambridge Depersonalization Scale and the Dissociative Experiences Scale), development trajectory (age of onset, potential precipitating factors, course characteristics), treatment history (duration of delayed healthcare attendance, duration of delayed diagnosis, previous diagnoses), and adverse childhood experiences of the DPD patients are presented. Comparisons of anxiety and depressive symptoms, alongside psychosocial functioning, between DPD participants and those diagnosed with generalized anxiety disorder, bipolar disorders, and major depressive disorder were conducted. The analysis highlights a higher male preponderance and early onset of DPD, symptomatology marked by derealization, notable impairment in psychosocial functioning, and prolonged periods of delayed healthcare attendance and diagnosis associated with symptom severity. Furthermore, noteworthy relationships between adverse childhood experiences and symptom levels were identified. The findings substantiate the view that DPD is a serious but neglected mental disorder, urging initiatives to improve the current condition of DPD patients.
+
+**一句话概括**: 中国DPD患者男性多、起病早、现实解体为主、不良童年经历与症状相关。
+
+---
+
+:::info 贡献者
+文献来源于 [Zotero 库](https://www.zotero.org/groups/dpdr_wiki)，已获得授权整理。如需添加或修改内容，欢迎提交 PR。
+:::

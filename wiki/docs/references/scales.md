@@ -1,0 +1,165 @@
+---
+sidebar_position: 6
+title: 量表
+description: 解离性人格解体/现实解体障碍（DPDR）相关评估量表的信效度研究及跨文化验证文献。
+---
+
+# 量表
+
+标准化的评估工具对于DPDR的诊断和研究至关重要。本分类收录关于剑桥去人格化量表（CDS）、解离体验量表（DES）、多维度解离量表（MID）等工具的信效度研究和跨文化验证文献。
+
+## 文献列表
+
+### [1] Die Cambridge Depersonalisation Scale-Situational (CDS-S) zur Erfassung von situationsabhängigem Depersonalisationserleben
+**作者**: Schweden T.; Konrad A.; Hoyer J.  
+**年份**: 2019  
+**DOI**: [10.1026/0012-1924/a000232](https://doi.org/10.1026/0012-1924/a000232)  
+**原文链接**: 无  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1026/0012-1924/a000232](https://pubmed.ncbi.nlm.nih.gov/?term=10.1026/0012-1924/a000232)  
+
+**摘要（中文）**: 本研究开发情境性剑桥去人格化量表（CDS-S）用于评估在焦虑相关情境中出现的去人格化体验。
+
+**摘要（英文）**: Zusammenfassung. Depersonalisations-/Derealisationssymptome sind wahrend der Konfrontation mit angstbesetzten Reizen oder Situationen haufig. Zur Erfassung dieses situationsbezogenen Depersonalis...
+
+**一句话概括**: CDS-S用于评估情境性去人格化体验。
+
+---
+
+### [2] Reliability and validity of a Japanese version of the Cambridge depersonalization scale as a screening instrument for depersonalization disorder: Cambridge depersonalization scale
+**作者**: Sugiura M.; Hirosawa M.; Tanaka S.; Nishi Y.; Yamada Y.; Mizuno M.  
+**年份**: 06/2  
+**DOI**: [10.1111/j.1440-1819.2009.01939.x](https://doi.org/10.1111/j.1440-1819.2009.01939.x)  
+**原文链接**: [https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1819.2009.01939.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1819.2009.01939.x)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1111/j.1440-1819.2009.01939.x](https://pubmed.ncbi.nlm.nih.gov/?term=10.1111/j.1440-1819.2009.01939.x)  
+
+**摘要（中文）**: 暂无摘要
+
+**摘要（英文）**: 暂无摘要
+
+**一句话概括**: 日语版CDS作为去人格化障碍筛查工具的信效度验证。
+
+---
+
+### [3] Italian (cross cultural) adaptation and validation of the Cambridge Depersonalization Scale (CDS)
+**作者**: Migliorini V.; Dell'erba A.; Fagioli F.; Sierra M.; Mosticoni S.; Telesforo L.; Patanè M.; Consolazione M.; Fiori-Nastro P.  
+**年份**: 2012  
+**DOI**: [10.1017/S2045796011000850](https://doi.org/10.1017/S2045796011000850)  
+**原文链接**: 无  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1017/S2045796011000850](https://pubmed.ncbi.nlm.nih.gov/?term=10.1017/S2045796011000850)  
+
+**摘要（中文）**: 暂无摘要
+
+**摘要（英文）**: 暂无摘要
+
+**一句话概括**: 意大利语版CDS的跨文化适配与验证。
+
+---
+
+### [4] THE MULTIDIMENSIONAL INVENTORY OF DISSOCIATION (MID) IN DEPERSONALIZATION DISORDER: GENERAL FINDINGS WITH A CLINICAL EMPHASIS ON MEMORY AND IDENTITY DISTURBANCES
+**作者**: Simeon D.; Knutelska M.  
+**年份**: 2022  
+**DOI**: [10.1080/15299732.2022.2119634](https://doi.org/10.1080/15299732.2022.2119634)  
+**原文链接**: [https://www.tandfonline.com/doi/pdf/10.1080/15299732.2022.2119634](https://www.tandfonline.com/doi/pdf/10.1080/15299732.2022.2119634)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2119634](https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2119634)  
+
+**摘要（中文）**: 23名DSM-IV-TR去人格化障碍患者完成MID评估。解离评分与DES、CDS和CTQ评分显著相关。提出DPD诊断公式：标准A去人格化/现实解体≥20、标准B≤28、标准C≤11，敏感性82.6%。
+
+**摘要（英文）**: The Multidimensional Inventory of Dissociation (MID) was administered to 23 participants diagnosed with DSM-IV-TR Depersonalization Disorder (DDD) by structured interview. The MID has not been previously examined in DDD and does not generate a diagnostic formula for the disorder. Mean MID score for the sample was modestly elevated at 18.54, and was significantly correlated with Dissociative Experiences Scale, Cambridge Depersonalization Scale, and Childhood Trauma Questionnaire scores. Criterion A (General Dissociation) Depersonalization and Depersonalization scale scores were markedly elevated (41.70 and 40.98 respectively), followed by moderate elevations in the Identity Confusion (36.01), Trance (25.44), and Memory Problems (23.30) scales. Criterion B (Intrusions from partly dissociated self-states) mean score was modestly elevated (19.13) and declined to 13.67 once items overlapping with the Depersonalization and Identity Confusion scales were excluded. Criterion C (fully dissociated manifestations of other self-states) mean score was minimally elevated (6.57). Of the 168 pathological dissociation items, 55 were clinically elevated in DDD. Closer examination of the Intrusions and Amnesia items that were modestly elevated in DDD revealed that these items did not reflect the presence of alters, but rather represented known depersonalization-related phenomena. We propose a preliminary formula, based on cutoff scores for Criterion A Depersonalization and/or Derealization, Criterion B, and Criterion C (≥20, ≤28, ≤11) for the sensitive diagnosis of DDD (82.6% of participants), which would require future investigation for replication and determination of specificity vis-à-vis the other dissociative disorders.
+
+**一句话概括**: MID在DPD患者中表现良好，提出DPD诊断公式，敏感性82.6%。
+
+---
+
+### [5] Psychometric properties of the Cambridge depersonalization scale in Puerto Rico
+**作者**: Aponte-Soto M.; Vélez-Pastrana M.; Martínez-Taboas A.; González R.  
+**年份**: 2014  
+**DOI**: [10.1080/15299732.2013.856370](https://doi.org/10.1080/15299732.2013.856370)  
+**原文链接**: 无  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2013.856370](https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2013.856370)  
+
+**摘要（中文）**: 300名波多黎各社区成人完成CDS西班牙语版评估，探索性和验证性因子分析支持四因子解，四因子结构与DES中度相关（r=0.64），提示CDS可可靠测量拉丁裔人群的去人格化体验。
+
+**摘要（英文）**: Depersonalization experiences have been studied in the United States and Europe, but there is a dearth of investigations with Latino populations. In the current study we examined the psychometric properties of the Spanish version of the Cambridge Depersonalization Scale (CDS) in 300 adult individuals from the community and compared the results with those reported previously with non-Latino clinical populations. Discrepant findings have been reported with respect to the factor structure of the CDS. We performed exploratory and confirmatory factor analyses on the CDS items and compared our results with published analyses on other populations. Results revealed that the psychometric properties of the CDS, such as reliability, seem adequate, although the factor structure of the CDS seems to be inconsistent across studies. We selected a 4-factor solution that was most parsimonious and best fit our data. Furthermore, we obtained a moderate, statistically significant relationship (r = .64, p = .001) between the CDS and the Dissociative Experiences Scale. Our results, utilizing a nonclinical sample of Puerto Rican adults, suggest that depersonalization experiences can be reliably measured in a Latino and Spanish-speaking population.
+
+**一句话概括**: 西班牙语版CDS在波多黎各人群中信效度良好，支持四因子结构。
+
+---
+
+### [6] Construct Validity of Three Depersonalization Measures in Trauma-Exposed College Students
+**作者**: Blevins C.; Weathers F.; Mason E.  
+**年份**: 2012  
+**DOI**: [10.1080/15299732.2012.678470](https://doi.org/10.1080/15299732.2012.678470)  
+**原文链接**: [https://doi.org/10.1080/15299732.2012.678470](https://doi.org/10.1080/15299732.2012.678470)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2012.678470](https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2012.678470)  
+
+**摘要（中文）**: 209名有创伤暴露的大学生完成三种解离量表（DES、CDS、MDI）评估。CDS和MDI显示最佳内容效度和构念效度，支持使用这两个量表评估创伤人群的去人格化。
+
+**摘要（英文）**: Depersonalization is a type of dissociation characterized by feelings of unreality and detachment from one's sense of self. Despite a history rich in clinical description, the construct of depersonalization has proven difficult to define and measure. Available measures vary substantially in content, and all have relatively limited psychometric support. In this study the content validity, internal consistency, and convergent and discriminant validity of 3 depersonalization measures were compared in a sample of 209 trauma-exposed college students. Measures were the Dissociative Experiences Scale (E. M. Bernstein & F. W. Putnam, 1986), Cambridge Depersonalization Scale (CDS; M. Sierra & G. E. Berrios, 2000), and Multiscale Dissociation Inventory (MDI; J. Briere, 2002). All 3 measures exhibited adequate to high internal consistency for the depersonalization–derealization items. Based on D. Westen and R. Rosenthal's (2003) procedure for quantifying construct validity, the CDS and MDI demonstrated the best fit with the predicted pattern of correlations with measures of other constructs. The CDS and MDI also demonstrated the strongest evidence of content validity. Overall, the results most strongly support the use of the CDS and MDI for assessing depersonalization in this population.
+
+**一句话概括**: CDS和MDI在创伤暴露大学生中显示最佳构念效度。
+
+---
+
+### [7] Dissociative symptoms as measured by the Cambridge Depersonalization Scale in patients with a bipolar disorder
+**作者**: Tuineag M.; Therman S.; Lindgren M.; Rouanet M.; Nahon S.; Bertrand L.; Saury S.; Renaud S.; Beaulieu S.; Linnaranta O.  
+**年份**: 02/2  
+**DOI**: [10.1016/j.jad.2019.11.137](https://doi.org/10.1016/j.jad.2019.11.137)  
+**原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0165032719317586](https://linkinghub.elsevier.com/retrieve/pii/S0165032719317586)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2019.11.137](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2019.11.137)  
+
+**摘要（中文）**: 73名双相障碍患者完成CDS评估。单维度模型拟合良好（ω=0.96），CDS与抑郁严重程度（ρ=0.59）、社交焦虑（ρ=0.52）、童年创伤问卷（ρ=0.44）显著相关。研究提出14题和7题简版CDS用于筛查。
+
+**摘要（英文）**: Background: The Cambridge Depersonalization Scale (CDS) characterizes the quality, frequency, and duration of dissociative symptoms. While the psychometric properties of the CDS have been evaluated in primary dissociative disorder, this has been insufficiently addressed among other psychiatric patient groups such as patients with a bipolar disorder (BD). Methods: Outpatients with variable mood (n = 73) responded to a survey that assessed dissociative symptoms and other characteristics. We used factor analysis and McDonald's omega to evaluate psychometric properties of the CDS, and correlations with other characteristics. Results: Previously suggested multifactorial models of the CDS were not supported, but the single-dimensional model fit both dichotomized (p = 0.31, CFI = 0.99, RMSEA = 0.02, ECV 70%) and trichotomized CDS responses (p = 0.06, CFI = 0.96, RMSEA = 0.04, ECV 47%). The CDS showed high internal consistency (ω = 0.96). CDS factor scores correlated with symptom severity on the Quick Inventory for Depressive Symptoms (QIDS-SR-16) (ρ = 0.59), the Social Phobia Inventory (ρ = 0.52), the American Association of Psychiatry Severity measure for Panic Disorders (ρ = 0.46), the Childhood Trauma Questionnaire (ρ = 0.44), and the Trauma Screening Questionnaire (ρ = 0.53). Two abbreviated versions of the CDS, retaining the best 14 or 7 items were proposed. Limitations: The sample size remained moderate. Conclusions: The CDS is a psychometrically sound, unidimensional measure with clinical impact to detect and characterize dissociative symptoms in BD patients. Establishing the reliability and validity of the abbreviated scales for screening necessitates further study.
+
+**一句话概括**: CDS在双相障碍患者中信效度良好，提出14题和7题简版筛查量表。
+
+---
+
+### [8] Reliability, Validity, and Psychometric Properties of the Greek Translation of the Cambridge Depersonalization Scale (CDS)
+**作者**: Kontoangelos K.; Tsiori S.; Poulakou G.; Protopapas K.; Katsarolis I.; Sakka V.; Kavatha D.; Papadopoulos A.; Antoniadou A.; Papageorgiou C.  
+**年份**: 2016  
+**DOI**: [10.5455/msm.2016.28.387-391](https://doi.org/10.5455/msm.2016.28.387-391)  
+**原文链接**: [http://www.scopemed.org/fulltextpdf.php?mno=246148](http://www.scopemed.org/fulltextpdf.php?mno=246148)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.5455/msm.2016.28.387-391](https://pubmed.ncbi.nlm.nih.gov/?term=10.5455/msm.2016.28.387-391)  
+
+**摘要（中文）**: 294名希腊人完成CDS希腊语版评估。五因子解决方案解释58.2%总变异，Cronbach's α=0.938，分半信度=0.921，重测信度良好（ICC=0.883），与SCL-90高度相关，提示希腊版CDS可靠有效。
+
+**摘要（英文）**: Introduction: The Cambridge Depersonalisation Scale is meant to capture the frequency and duration of depersonalisation symptoms over the 'last 6 months'. Methods: In order to develop a Greek version of CDS scale, the CDS scale was translated in Greek by 2 psychiatrists. Then, the Greek version of CDS scale was back-translated by a person who did not knew the original English version. The back-translated version was reviewed in order to establish whether is consistent with the original English version. After this procedure we administered the Greek version of CDS scale to a sample of 294 Greeks in order to assess the reliability and the validity of the Greek version of scale. Results: The five components solution accounted for 58.204% of the total variation. Initial eigenvalues of the five components were: factor 1=11.555, factor 2=1.564, factor 3=1.356, factor 4=1.247 and factor 5=1.157. Six items did not load on any factor. Correlations between factors were low ranged from 0.134 to 0.314 and no complex variables were found. Cronbach's alpha and Guttman split-half coefficient were used to evaluate interval consistency of CDS scale in 294 individuals. The alpha coefficients and Guttman split-half coefficient of the CDS scale were 0.938 and 0.921, respectively. The test-retest reliability proved to be satisfactory. The intraclass correlation coefficients for the total CDS score was very good and equal to 0,883. The CDS scale correlated highly with the SCL-90 and all subscales (p-value<0.0001). Conclusion: The psychometric strength of CDS – Greek its reliable for its future use, particularly for screening for subjects with possible diagnosis of CDS.
+
+**一句话概括**: 希腊语版CDS信效度良好，Cronbach's α=0.938。
+
+---
+
+### [9] Factor structure of the Cambridge Depersonalization Scale in trauma-exposed college students
+**作者**: Blevins C.; Witte T.; Weathers F.  
+**年份**: 2013  
+**DOI**: [10.1080/15299732.2012.729555](https://doi.org/10.1080/15299732.2012.729555)  
+**原文链接**: [10.1080/15299732.2012.729555](10.1080/15299732.2012.729555)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2012.729555](https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2012.729555)  
+
+**摘要（中文）**: 534名创伤暴露大学生完成CDS评估，探索性和验证性因子分析不支持文献中报告的因子结构，支持两因子解决方案：一因子代表非真实感和脱离感，二因子代表情绪和身体麻木。
+
+**摘要（英文）**: This study examined the factor structure of the Cambridge Depersonalization Scale (CDS; M. Sierra & G. E. Berrios, 2000), a 29-item self-report measure of depersonalization. The CDS was based on a conceptualization of depersonalization as a multidimensional construct, a theoretical perspective that has received limited empirical attention. Exploratory and confirmatory factor analyses were conducted on CDS item scores in a sample of 534 trauma-exposed college students. Results failed to support factor structures of the CDS previously reported in the literature and instead supported a 2-factor solution, with 1 factor representing a sense of unreality and detachment and a 2nd factor representing emotional and physical numbing. Implications regarding the structural validity of the CDS are discussed.
+
+**一句话概括**: CDS在创伤大学生中支持两因子结构：非真实感/脱离感和情绪/身体麻木。
+
+---
+
+### [10] Unpacking the depersonalization syndrome: an exploratory factor analysis on the Cambridge Depersonalization Scale
+**作者**: SIERRA M.; BAKER D.; MEDFORD N.; DAVID A.  
+**年份**: 2005  
+**DOI**: [10.1017/S0033291705005325](https://doi.org/10.1017/S0033291705005325)  
+**原文链接**: [https://www.cambridge.org/core/product/identifier/S0033291705005325/type/journal_article](https://www.cambridge.org/core/product/identifier/S0033291705005325/type/journal_article)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1017/S0033291705005325](https://pubmed.ncbi.nlm.nih.gov/?term=10.1017/S0033291705005325)  
+
+**摘要（中文）**: 138名去人格化障碍患者完成CDS探索性因子分析，提取四个因子解释73.3%方差：异常身体体验、情绪麻木、异常主观回忆和周围疏离感，提示去人格化症状属于不同但相关的精神病理域。
+
+**摘要（英文）**: Background. Depersonalization has long been considered a syndrome but there is poor agreement on its constituent symptoms. Method. In order to establish whether different symptoms of depersonalization represent the expression of a single or several underlying dimensions, an exploratory factor analysis on the Cambridge Depersonalization Scale (CDS) was carried out on 138 consecutive patients diagnosed with depersonalization disorder. Results. Four well determined factors accounting for 73·3% of the variance were extracted. These were labelled 'Anomalous Body Experience'; 'Emotional Numbing'; 'Anomalous Subjective Recall' and 'Alienation from Surroundings'. Conclusions. Symptoms of depersonalization belong to distinct but related psychopathological domains.
+
+**一句话概括**: CDS提取四因子：异常身体体验、情绪麻木、异常主观回忆和周围疏离感。
+
+---
+
+:::info 贡献者
+文献来源于 [Zotero 库](https://www.zotero.org/groups/dpdr_wiki)，已获得授权整理。如需添加或修改内容，欢迎提交 PR。
+:::

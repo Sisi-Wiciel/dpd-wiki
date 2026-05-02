@@ -62,6 +62,11 @@ const config: Config = {
           label: '知识库',
         },
         {
+          href: '/docs/references/dpdr',
+          position: 'left',
+          label: '文献',
+        },
+        {
           type: 'localeDropdown',
           position: 'right',
         },

@@ -31,6 +31,26 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: '参考文献',
+      collapsed: true,
+      items: [
+        {
+          type: 'category',
+          label: '文献分类',
+          collapsed: false,
+          items: [
+            'references/dpdr',
+            'references/symptoms',
+            'references/treatment',
+            'references/mechanisms',
+            'references/epidemiology',
+            'references/scales',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
       label: '资源',
       collapsed: true,
       items: [
