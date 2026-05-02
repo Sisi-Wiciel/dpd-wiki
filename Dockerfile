@@ -1,20 +1,15 @@
-FROM node:20-alpine
+# Stage 1: Build
+FROM node:20-alpine AS builder
 
 WORKDIR /app
-
-# Install dependencies
 COPY wiki/package.json wiki/package-lock.json* ./
 RUN npm ci
-
-# Copy source
 COPY wiki/ ./
-
-# Build
 RUN npm run build
 
-# Serve with nginx
+# Stage 2: Serve
 FROM nginx:alpine
-COPY --from=0 /app/build /usr/share/nginx/html
+COPY --from=builder /app/build /usr/share/nginx/html
 COPY nginx/default.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80

@@ -1,11 +1,9 @@
 services:
   wiki:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: ghcr.io/sisi-wiciel/dpd-wiki:latest
     container_name: dpd-wiki
     restart: unless-stopped
     ports:
       - "3001:80"
     labels:
-      - "com.df师.sns=subdomain:wiki"
+      - "com.dpd师.sns=subdomain:wiki"
