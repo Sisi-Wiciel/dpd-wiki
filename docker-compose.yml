@@ -4,6 +4,6 @@ services:
     container_name: dpd-wiki
     restart: unless-stopped
     ports:
-      - "3001:80"
+      - "3002:80"
     labels:
       - "com.dpd师.sns=subdomain:wiki"

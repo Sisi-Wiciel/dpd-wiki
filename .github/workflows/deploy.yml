@@ -17,12 +17,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: wiki/package-lock.json
 
       - name: Install dependencies
         working-directory: wiki
-        run: npm ci
+        run: npm install
 
       - name: Build Docusaurus
         working-directory: wiki
@@ -60,5 +58,5 @@ jobs:
             cd /opt/dpdwiki
             git pull origin main
             docker-compose pull
-            docker-compose up -d --build
+            docker-compose up -d
             docker image prune -f
