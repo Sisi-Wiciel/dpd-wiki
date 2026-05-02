@@ -29,7 +29,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **作者**: OpenClaw; Zheng S.  
 **年份**:   
 **DOI**: 无  
-**原文链接**: [file:///root/.openclaw/workspace/projects/self-environment-reality-platform/docs/dpdr-self-reality-battery-framework.md](file:///root/.openclaw/workspace/projects/self-environment-reality-platform/docs/dpdr-self-reality-battery-framework.md)  
+**原文链接**: [本地文档](https://www.zotero.org/groups/4182841)  
 **PubMed**: 无  
 
 **摘要（中文）**: 围绕 DPDR 构建自我与现实感任务电池的框架文档，提出五大核心测量域及任务-指标-多模态联动的总体结构。
@@ -44,7 +44,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **作者**: OpenClaw; Zheng S.  
 **年份**:   
 **DOI**: 无  
-**原文链接**: [file:///root/.openclaw/workspace/notes/DPDR任务/DPDR任务文献清单_自我真实感与环境真实感任务.md](file:///root/.openclaw/workspace/notes/DPDR任务/DPDR任务文献清单_自我真实感与环境真实感任务.md)  
+**原文链接**: [本地文档](https://www.zotero.org/groups/4182841)  
 **PubMed**: 无  
 
 **摘要（中文）**: 关于 DPDR 中自我真实感、环境真实感、自我—环境边界与相关任务范式的文献整理与评述，服务于后续任务平台设计。
@@ -75,7 +75,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **年份**: 2024  
 **DOI**: [10.1186/s12888-024-06096-1](https://doi.org/10.1186/s12888-024-06096-1)  
 **原文链接**: [https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06096-1](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06096-1)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06096-1](https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06096-1)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06096-1](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1186/s12888-024-06096-1)  
 
 **摘要（中文）**: 本研究招募84名右利手DPD患者和67名健康对照，通过静息态功能磁共振和动态功能网络连接分析，探索DPD的脑动态特征。研究发现DPD患者在额顶网络、感觉运动网络和默认模式网络中存在特定脑网络改变，且tDCS干预可显著改变部分脑状态。
 
@@ -90,7 +90,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **年份**: 2022  
 **DOI**: [10.1016/j.jad.2022.04.127](https://doi.org/10.1016/j.jad.2022.04.127)  
 **原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0165032722004712](https://linkinghub.elsevier.com/retrieve/pii/S0165032722004712)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.jad.2022.04.127)  
 
 **摘要（中文）**: 本研究首次探讨未用药首发DPD患者的白质微结构异常。DPD患者右侧胼胝体和后冠状辐射FA值升高，且与症状严重程度和认知损害相关，提示白质完整性异常可作为DPD潜在生物标志物。
 
@@ -105,7 +105,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **年份**: 2025  
 **DOI**: [10.1002/brb3.70314](https://doi.org/10.1002/brb3.70314)  
 **原文链接**: [https://onlinelibrary.wiley.com/doi/10.1002/brb3.70314](https://onlinelibrary.wiley.com/doi/10.1002/brb3.70314)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/brb3.70314](https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/brb3.70314)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/brb3.70314](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1002/brb3.70314)  
 
 **摘要（中文）**: 本研究利用静息态功能磁共振探索DPD患者自我参照加工相关脑区的拓扑和网络特性改变。DPD患者在自我参照网络中表现出显著的连接改变，机器学习分类模型准确率达88.5%，AUC为0.928，提示皮层中线结构和岛叶改变可能与DPD机制相关。
 
@@ -120,7 +120,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **年份**: 2025  
 **DOI**: [10.1016/j.cognition.2025.106261](https://doi.org/10.1016/j.cognition.2025.106261)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.cognition.2025.106261](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.cognition.2025.106261)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.cognition.2025.106261](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.cognition.2025.106261)  
 
 **摘要（中文）**: 本研究首次探讨DPD患者长期自我面孔表征的损害。DPD症状较重的个体自我面孔表征准确率较低但精确度和信息含量反而较高，提示他们可能将一个不同但不准确的"陌生"面孔表征为自我。独立评估者发现高DPD参与者的自我表征面孔更冷漠、更年轻，且与内感受敏感性相关。
 
@@ -135,7 +135,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **年份**: 2023  
 **DOI**: [10.1080/15299732.2022.2136328](https://doi.org/10.1080/15299732.2022.2136328)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2136328](https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2136328)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2136328](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1080/15299732.2022.2136328)  
 
 **摘要（中文）**: 本研究探讨DPD患者对情绪信息的主动遗忘能力。DPD组对负性词的定向遗忘显著低于对照组，且解离评分与负性词的反向遗忘相关，提示DPD患者在主动控制注意力以回避情绪困扰方面存在缺陷。
 
@@ -150,7 +150,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **年份**: 2024  
 **DOI**: [10.1016/j.neubiorev.2024.105783](https://doi.org/10.1016/j.neubiorev.2024.105783)  
 **原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0149763424002525](https://linkinghub.elsevier.com/retrieve/pii/S0149763424002525)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.neubiorev.2024.105783)  
 
 **摘要（中文）**: 本系统综述综合了DDD患者行为、自主神经和神经反应性的实验证据。研究发现DDD患者对厌恶刺激的主观反应性降低、情绪调节相关神经回路过度激活，但行为和自主神经反应性结果不一致。常见混杂因素包括小样本量、药物使用和共病。
 
@@ -165,7 +165,7 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **年份**:   
 **DOI**: [10.15190/d.2024.09](https://doi.org/10.15190/d.2024.09)  
 **原文链接**: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11910194/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11910194/)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.15190/d.2024.09](https://pubmed.ncbi.nlm.nih.gov/?term=10.15190/d.2024.09)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.15190/d.2024.09](https://pubmed.ncbi.nlm.nih.gov/?term = 10.15190/d.2024.09)  
 
 **摘要（中文）**: 本综述深入探讨DPDR的复杂性问题，涵盖临床表现、流行病学、病因学、诊断和管理。DPDR确切病因仍不明确，但影像学研究提示与脑白质、灰质、尾状核、杏仁核等结构功能改变相关。治疗需整合心理治疗、药物治疗和生活方式干预，CBT和SSRIs/SNRIs是主要干预手段。
 

@@ -15,7 +15,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2021  
 **DOI**: [10.1176/appi.ajp.2020.19060647](https://doi.org/10.1176/appi.ajp.2020.19060647)  
 **原文链接**: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8030225/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8030225/)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1176/appi.ajp.2020.19060647](https://pubmed.ncbi.nlm.nih.gov/?term=10.1176/appi.ajp.2020.19060647)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1176/appi.ajp.2020.19060647](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1176/appi.ajp.2020.19060647)  
 
 **摘要（中文）**: 本研究对65名有童年虐待史和当前PTSD的女性进行静息态功能连接分析，发现默认模式和额顶控制网络间的连接与解离严重程度相关，脑网络连接可提供对症状严重程度的无偏估计。
 
@@ -30,7 +30,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2016  
 **DOI**: [10.1016/j.neuropsychologia.2016.07.017](https://doi.org/10.1016/j.neuropsychologia.2016.07.017)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neuropsychologia.2016.07.017](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neuropsychologia.2016.07.017)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neuropsychologia.2016.07.017](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.neuropsychologia.2016.07.017)  
 
 **摘要（中文）**: 本综述探讨解离症状与注意、执行功能、记忆和社会认知功能障碍的关系。提出两个神经生物学机制：丘脑水平的功能性感觉传入阻滞和关键脑网络间功能连接改变可能介导解离症状与认知功能障碍的联系。
 
@@ -44,8 +44,8 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **作者**: Scalabrini A.; Mucci C.; Esposito R.; Damiani S.; Northoff G.  
 **年份**: 2020  
 **DOI**: [10/ggwh4v](https://doi.org/10/ggwh4v)  
-**原文链接**: [10/ggwh4v](10/ggwh4v)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/ggwh4v](https://pubmed.ncbi.nlm.nih.gov/?term=10/ggwh4v)  
+**原文链接**: [10/ggwh4v](https://doi.org/10/ggwh4v)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/ggwh4v](https://pubmed.ncbi.nlm.nih.gov/?term = 10/ggwh4v)  
 
 **摘要（中文）**: 19世纪Pierre Janet提出解离是心理功能整合受损的表现状态。本综述将Janet的原始概念与当前脑成像研究结合，提出三个动态整合的神经机制：区域水平的时空绑定、网络水平的时空同步和全局水平的时空整合化，这些机制可能与解离的不同症状表现相关。
 
@@ -59,8 +59,8 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **作者**: Roth M.; Harper M.  
 **年份**: 1962  
 **DOI**: [10/d6994n](https://doi.org/10/d6994n)  
-**原文链接**: [10/d6994n](10/d6994n)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/d6994n](https://pubmed.ncbi.nlm.nih.gov/?term=10/d6994n)  
+**原文链接**: [10/d6994n](https://doi.org/10/d6994n)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/d6994n](https://pubmed.ncbi.nlm.nih.gov/?term = 10/d6994n)  
 
 **摘要（中文）**: 暂无摘要
 
@@ -74,8 +74,8 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **作者**: Phillips M.; Medford N.; Senior C.; Bullmore E.; Suckling J.; Brammer M.; Andrew C.; Sierra M.; Williams S.; David A.  
 **年份**: 2001  
 **DOI**: [10.1016/s0925-4927(01)00119-6](https://doi.org/10.1016/s0925-4927(01)00119-6)  
-**原文链接**: [https://api.elsevier.com/content/article/PII:S0925492701001196?httpAccept=text/xml](https://api.elsevier.com/content/article/PII:S0925492701001196?httpAccept=text/xml)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/s0925-4927(01)00119-6](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/s0925-4927(01)00119-6)  
+**原文链接**: [https://api.elsevier.com/content/article/PII:S0925492701001196?httpAccept = text/xml](https://api.elsevier.com/content/article/PII:S0925492701001196?httpAccept = text/xml)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/s0925-4927(01)00119-6](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/s0925-4927(01)00119-6)  
 
 **摘要（中文）**: 去人格化障碍患者对厌恶刺激的主观情绪体验缺失，fMRI显示情绪相关脑区（岛叶和枕颞皮层）激活降低，而右侧腹内侧前额叶激活。核心现象——主观情绪体验缺失——与情绪敏感脑区反应降低和情绪调节脑区反应增强相关。
 
@@ -89,12 +89,12 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **作者**: Simeon D.; Guralnik O.; Knutelska M.; Yehuda R.; Schmeidler J.  
 **年份**: 2003  
 **DOI**: [10/dvb8mj](https://doi.org/10/dvb8mj)  
-**原文链接**: [10/dvb8mj](10/dvb8mj)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/dvb8mj](https://pubmed.ncbi.nlm.nih.gov/?term=10/dvb8mj)  
+**原文链接**: [10/dvb8mj](https://doi.org/10/dvb8mj)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/dvb8mj](https://pubmed.ncbi.nlm.nih.gov/?term = 10/dvb8mj)  
 
-**摘要（中文）**: 本初步研究检测去人格化障碍的基底去甲肾上腺素水平。DPD组24小时尿去甲肾上腺素显著高于对照组，且与解离严重程度呈强负相关（r=-0.88）。提示随着解离严重程度增加，基底去甲肾上腺素反而下降。
+**摘要（中文）**: 本初步研究检测去人格化障碍的基底去甲肾上腺素水平。DPD组24小时尿去甲肾上腺素显著高于对照组，且与解离严重程度呈强负相关（r = -0.88）。提示随着解离严重程度增加，基底去甲肾上腺素反而下降。
 
-**摘要（英文）**: In contrast to the noradrenergic dysregulation described in PTSD, little is known regarding noradrenergic function in dissociative disorders. The purpose of this preliminary study was to investigate basal norepinephrine in depersonalization disorder (DPD). Nine subjects with DSM-IV DPD, without lifetime PTSD, were compared to nine healthy comparison (HC) subjects. Norepinephrine was measured via 24-h urine collection and three serial plasma determinations. Groups did not differ significantly in plasma norepinephrine levels. Compared to the HC group, the DPD group demonstrated significantly higher urinary norepinephrine, only prior to covarying for anxiety. The DPD group also demonstrated a highly significant inverse correlation between urinary norepinephrine and depersonalization severity (r=-0.88). Norepinephrine and cortisol levels (reported in a prior study) were not intercorrelated. We concluded that although dissociation accompanied by anxiety was associated with heightened noradrenergic tone, there was a marked basal norepinephrine decline with increasing severity of dissociation. The findings are in concordance with the few reports on autonomic blunting in dissociation and merit further investigation.
+**摘要（英文）**: In contrast to the noradrenergic dysregulation described in PTSD, little is known regarding noradrenergic function in dissociative disorders. The purpose of this preliminary study was to investigate basal norepinephrine in depersonalization disorder (DPD). Nine subjects with DSM-IV DPD, without lifetime PTSD, were compared to nine healthy comparison (HC) subjects. Norepinephrine was measured via 24-h urine collection and three serial plasma determinations. Groups did not differ significantly in plasma norepinephrine levels. Compared to the HC group, the DPD group demonstrated significantly higher urinary norepinephrine, only prior to covarying for anxiety. The DPD group also demonstrated a highly significant inverse correlation between urinary norepinephrine and depersonalization severity (r = -0.88). Norepinephrine and cortisol levels (reported in a prior study) were not intercorrelated. We concluded that although dissociation accompanied by anxiety was associated with heightened noradrenergic tone, there was a marked basal norepinephrine decline with increasing severity of dissociation. The findings are in concordance with the few reports on autonomic blunting in dissociation and merit further investigation.
 
 **一句话概括**: DPD患者去甲肾上腺素与解离严重程度负相关，提示自主神经钝化。
 
@@ -104,8 +104,8 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **作者**: Ketay S.; Hamilton H.; Haas B.; Simeon D.  
 **年份**: 2014  
 **DOI**: [10.1016/j.pscychresns.2014.02.003](https://doi.org/10.1016/j.pscychresns.2014.02.003)  
-**原文链接**: [https://api.elsevier.com/content/article/PII:S0925492714000304?httpAccept=text/xml](https://api.elsevier.com/content/article/PII:S0925492714000304?httpAccept=text/xml)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2014.02.003](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2014.02.003)  
+**原文链接**: [https://api.elsevier.com/content/article/PII:S0925492714000304?httpAccept = text/xml](https://api.elsevier.com/content/article/PII:S0925492714000304?httpAccept = text/xml)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2014.02.003](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.pscychresns.2014.02.003)  
 
 **摘要（中文）**: 9名DPD参与者和10名对照在fMRI下观看自我和陌生人面孔。DPD组对自我vs陌生面孔在多个脑区表现出显著更强的激活，提示自我熟悉性加工异常。
 
@@ -135,7 +135,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2013  
 **DOI**: [10.1016/j.pscychresns.2013.05.006](https://doi.org/10.1016/j.pscychresns.2013.05.006)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2013.05.006](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2013.05.006)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2013.05.006](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.pscychresns.2013.05.006)  
 
 **摘要（中文）**: 本研究探讨DPD与述情障碍是否共享情绪调节异常脑机制。DPD患者情绪面孔加工脑区与述情障碍量表评分相关，提示述情障碍在DPD情绪失调中起重要作用，可能与内感受限制相关。
 
@@ -150,7 +150,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2003  
 **DOI**: [10.1080/1025389031000138538](https://doi.org/10.1080/1025389031000138538)  
 **原文链接**: [http://www.tandfonline.com/doi/pdf/10.1080/1025389031000138538](http://www.tandfonline.com/doi/pdf/10.1080/1025389031000138538)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/1025389031000138538](https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/1025389031000138538)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/1025389031000138538](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1080/1025389031000138538)  
 
 **摘要（中文）**: 情绪体验减弱是去人格化障碍的核心特征。患者通常主诉情绪麻木，并将非真实感归因于感知缺乏情感"着色"。神经影像和心理生理学研究支持这些假设，显示DPD患者对情绪刺激的自主神经反应减弱、情绪相关脑区活动降低，而前额叶皮层活动增强。症状可能与情绪反应模式的逆转相关。
 
@@ -164,8 +164,8 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **作者**: Sierra M.; David A.  
 **年份**: 2011  
 **DOI**: [10.1016/j.concog.2010.10.018](https://doi.org/10.1016/j.concog.2010.10.018)  
-**原文链接**: [https://api.elsevier.com/content/article/PII:S1053810010002060?httpAccept=text/xml](https://api.elsevier.com/content/article/PII:S1053810010002060?httpAccept=text/xml)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.concog.2010.10.018](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.concog.2010.10.018)  
+**原文链接**: [https://api.elsevier.com/content/article/PII:S1053810010002060?httpAccept = text/xml](https://api.elsevier.com/content/article/PII:S1053810010002060?httpAccept = text/xml)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.concog.2010.10.018](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.concog.2010.10.018)  
 
 **摘要（中文）**: 去人格化由前额叶-边缘（特别是前岛叶）抑制机制导致，表现为情绪麻木和感知脱节。功能神经影像和心理生理学研究支持该模型，显示DPD患者对厌恶情绪刺激表现出前额叶激活增强和岛叶/边缘区激活降低。
 
@@ -180,7 +180,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2008  
 **DOI**: [10.1586/14737175.8.1.19](https://doi.org/10.1586/14737175.8.1.19)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1586/14737175.8.1.19](https://pubmed.ncbi.nlm.nih.gov/?term=10.1586/14737175.8.1.19)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1586/14737175.8.1.19](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1586/14737175.8.1.19)  
 
 **摘要（中文）**: DPD是慢性和痛苦性疾病，普通抗抑郁药和抗精神病药疗效有限。阿片受体拮抗剂（如纳曲酮和纳洛酮）对部分患者有效，拉莫三嗪作为单一药物无效但作为SSRIs辅助用药有益，氯硝西泮合并SSRIs对高基线焦虑患者有益。
 
@@ -195,7 +195,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 1998  
 **DOI**: [10.1016/S0006-3223(98)00015-8](https://doi.org/10.1016/S0006-3223(98)00015-8)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/S0006-3223(98)00015-8](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/S0006-3223(98)00015-8)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/S0006-3223(98)00015-8](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/S0006-3223(98)00015-8)  
 
 **摘要（中文）**: 本综述提出新模型：右侧背外侧前额叶激活导致警觉增强和前扣带回抑制，产生"意识空白"和"疼痛 indifference"体验；左侧前额叶机制抑制杏仁核，导致情绪低落和"非真实感"。
 
@@ -210,7 +210,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2022  
 **DOI**: [10.3390/brainsci12081112](https://doi.org/10.3390/brainsci12081112)  
 **原文链接**: [https://www.mdpi.com/2076-3425/12/8/1112](https://www.mdpi.com/2076-3425/12/8/1112)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.3390/brainsci12081112](https://pubmed.ncbi.nlm.nih.gov/?term=10.3390/brainsci12081112)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.3390/brainsci12081112](https://pubmed.ncbi.nlm.nih.gov/?term = 10.3390/brainsci12081112)  
 
 **摘要（中文）**: 本研究通过三项分析流程识别DPD非侵入性脑刺激的潜在靶点：Meta分析、功能连接分析和ROI分析。识别出双侧内侧前额叶、背外侧前额叶、顶上小叶、颞上回和右侧腹外侧前额叶等多个潜在刺激靶点。
 
@@ -225,7 +225,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2007  
 **DOI**: [10.1097/WNR.0b013e328057deb3](https://doi.org/10.1097/WNR.0b013e328057deb3)  
 **原文链接**: [https://journals.lww.com/10.1097/WNR.0b013e328057deb3](https://journals.lww.com/10.1097/WNR.0b013e328057deb3)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1097/WNR.0b013e328057deb3](https://pubmed.ncbi.nlm.nih.gov/?term=10.1097/WNR.0b013e328057deb3)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1097/WNR.0b013e328057deb3](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1097/WNR.0b013e328057deb3)  
 
 **摘要（中文）**: 9名DPD患者和12名对照在fMRI下观看不同强度的快乐和悲伤面孔。DPD患者对强度递增的情绪面孔表现出皮下边缘区活动降低，且双侧背外侧前额叶与皮肤电导呈负相关，提示情绪唤醒时前额叶调控异常。
 
@@ -239,8 +239,8 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **作者**: Medford N.; Sierra M.; Stringaris A.; Giampietro V.; Brammer M.; David A.  
 **年份**: 2016  
 **DOI**: [10.3389/fpsyg.2016.00432](https://doi.org/10.3389/fpsyg.2016.00432)  
-**原文链接**: [http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=psyc13&NEWS=N&AN=2016-40453-001](http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=psyc13&NEWS=N&AN=2016-40453-001)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.3389/fpsyg.2016.00432](https://pubmed.ncbi.nlm.nih.gov/?term=10.3389/fpsyg.2016.00432)  
+**原文链接**: [http://ovidsp.ovid.com/ovidweb.cgi?T = JS&PAGE = reference&D = psyc13&NEWS = N&AN = 2016-40453-001](http://ovidsp.ovid.com/ovidweb.cgi?T = JS&PAGE = reference&D = psyc13&NEWS = N&AN = 2016-40453-001)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.3389/fpsyg.2016.00432](https://pubmed.ncbi.nlm.nih.gov/?term = 10.3389/fpsyg.2016.00432)  
 
 **摘要（中文）**: 本fMRI研究探讨DPD情绪加工的神经解剖学基础及治疗后的改变。DPD情绪体验减弱与岛叶活动减弱相关，症状改善与岛叶活动增加相关。右侧腹外侧前额叶可能是"自上而下"情绪抑制的关键脑区。
 
@@ -255,7 +255,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 12/2  
 **DOI**: [10.1016/j.pscychresns.2006.05.007](https://doi.org/10.1016/j.pscychresns.2006.05.007)  
 **原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0925492706000941](https://linkinghub.elsevier.com/retrieve/pii/S0925492706000941)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2006.05.007](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2006.05.007)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2006.05.007](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.pscychresns.2006.05.007)  
 
 **摘要（中文）**: 10名DPD患者和对照在fMRI下完成情绪词语记忆任务。DPD患者对情绪词语的识别增强，但中性词的情绪增强记忆缺失。编码和识别期间情绪加工区未激活，提示情绪材料加工异常。
 
@@ -270,7 +270,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2016  
 **DOI**: [10.1111/ejn.13183](https://doi.org/10.1111/ejn.13183)  
 **原文链接**: [https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fejn.13183](https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fejn.13183)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1111/ejn.13183](https://pubmed.ncbi.nlm.nih.gov/?term=10.1111/ejn.13183)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1111/ejn.13183](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1111/ejn.13183)  
 
 **摘要（中文）**: 16名DPRD患者和对照完成Stroop/负启动联合任务。DPRD患者在认知负荷期间自主神经模式逆转：对照显示认知负荷与自主反应负相关，而患者显示正相关。DPRD仅显示轻度执行认知特异，但支持自主功能异常。
 
@@ -284,8 +284,8 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **作者**: Sedeno L.; Couto B.; Melloni M.; Canales-Johnson A.; Yoris A.; Baez S.; Esteves S.; Velasquez M.; Barttfeld P.; Sigman M.; Kichic R.; Chialvo D.; Manes F.; Bekinschtein T.; Ibanez A.  
 **年份**: 2014  
 **DOI**: [10.1371/journal.pone.0098769](https://doi.org/10.1371/journal.pone.0098769)  
-**原文链接**: [10/gc8x9v](10/gc8x9v)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1371/journal.pone.0098769](https://pubmed.ncbi.nlm.nih.gov/?term=10.1371/journal.pone.0098769)  
+**原文链接**: [10/gc8x9v](https://doi.org/10/gc8x9v)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1371/journal.pone.0098769](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1371/journal.pone.0098769)  
 
 **摘要（中文）**: 首项结合行为和神经生物学测量探讨内感受与DD关系的研究。DD患者心跳检测任务表现受损，内感受状态下全脑连接性降低，且表现出情感共情特定模式损害，提示内感受和脑-体相互作用异常与DD现象相关。
 
@@ -300,7 +300,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2018  
 **DOI**: [10.1503/jpn.170110](https://doi.org/10.1503/jpn.170110)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1503/jpn.170110](https://pubmed.ncbi.nlm.nih.gov/?term=10.1503/jpn.170110)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1503/jpn.170110](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1503/jpn.170110)  
 
 **摘要（摘要）**: DPD患者白质网络改变，左侧颞区和右侧颞顶区FA值显著低于对照，且与解离症状严重程度相关。提示多模态整合和情绪调节相关脑区间的结构连接可能异常。
 
@@ -315,7 +315,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2022  
 **DOI**: [10.1016/j.jad.2022.04.127](https://doi.org/10.1016/j.jad.2022.04.127)  
 **原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0165032722004712](https://linkinghub.elsevier.com/retrieve/pii/S0165032722004712)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.jad.2022.04.127)  
 
 **摘要（中文）**: 25名首发未用药DPD患者和23名对照的DTI扫描显示，患者右侧胼胝体和后冠状辐射FA值升高，且与CDS总分、麻木、自我非真实感、感知觉改变和时间解体正相关，提示白质微结构和认知损害与症状相关。
 
@@ -330,7 +330,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **年份**: 2015  
 **DOI**: [10.1503/jpn.130284](https://doi.org/10.1503/jpn.130284)  
 **原文链接**: [https://europepmc.org/articles/PMC4275327](https://europepmc.org/articles/PMC4275327)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1503/jpn.130284](https://pubmed.ncbi.nlm.nih.gov/?term=10.1503/jpn.130284)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1503/jpn.130284](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1503/jpn.130284)  
 
 **摘要（中文）**: 首个探索解离障碍全脑形态学异常的VBM研究。25名DPD患者和23名对照显示，患者右侧尾状核、右侧丘脑和右侧楔叶灰质体积减小，左侧背内侧前额叶和右侧感觉区体积增大，这些改变与焦虑抑郁无关。
 

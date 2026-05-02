@@ -41,4 +41,4 @@ E. 该人并非不知道自己的状况。与焦虑障碍中的分离症状不�
 ## 相关资源
 
 - [常见触发因素](./common-triggers)
-- [专业帮助](../../resources/professional-help)
+- [专业帮助](/docs/resources/professional-help)

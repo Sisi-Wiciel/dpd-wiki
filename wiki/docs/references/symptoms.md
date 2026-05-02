@@ -15,7 +15,7 @@ DPDR的症状表现多样且异质性高，可表现为去人格化体验、去�
 **年份**: 2021  
 **DOI**: [10.1002/jclp.23241](https://doi.org/10.1002/jclp.23241)  
 **原文链接**: [https://onlinelibrary.wiley.com/doi/10.1002/jclp.23241](https://onlinelibrary.wiley.com/doi/10.1002/jclp.23241)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/jclp.23241](https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/jclp.23241)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/jclp.23241](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1002/jclp.23241)  
 
 **摘要（中文）**: 本研究对303名DDD患者进行潜剖面分析，识别出五个离散亚组：三个不同严重程度亚组和两个以不同解离症状为特征的中重度亚组。五个亚组在非解离症状、共病及诊断诱因方面存在可靠差异，但对焦虑等其他症状无显著差异。研究结果提示DDD存在三种不同亚型，其区别在于脱离和隔离症状的差异表达。
 
@@ -30,7 +30,7 @@ DPDR的症状表现多样且异质性高，可表现为去人格化体验、去�
 **年份**: 2008  
 **DOI**: [10.1016/j.psychres.2007.07.007](https://doi.org/10.1016/j.psychres.2007.07.007)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.psychres.2007.07.007](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.psychres.2007.07.007)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.psychres.2007.07.007](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.psychres.2007.07.007)  
 
 **摘要（中文）**: DSM-IV-TR仅用单一症状标准定义去人格化障碍，未能充分反映障碍的复杂性。对394名患者进行剑桥去人格化量表分析，提取出五个因子：麻木、自我非真实感、感知觉改变、周围非真实感和时间解体，为更精确诊断提供依据。
 
@@ -45,7 +45,7 @@ DPDR的症状表现多样且异质性高，可表现为去人格化体验、去�
 **年份**: 2024  
 **DOI**: [10.1186/s12888-024-06028-z](https://doi.org/10.1186/s12888-024-06028-z)  
 **原文链接**: [https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06028-z](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06028-z)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06028-z](https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06028-z)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06028-z](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1186/s12888-024-06028-z)  
 
 **摘要（中文）**: 本研究描述了217例中国DPD患者的临床特征：男性占比高、起病早、症状以现实解体为主、社会心理功能损害显著、就医和诊断延迟时间长且与症状严重程度相关。不良童年经历与症状水平显著相关。研究强调DPD是一种严重但被忽视的精神障碍。
 

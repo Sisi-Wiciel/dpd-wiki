@@ -15,7 +15,7 @@ DPDR的流行病学研究相对匮乏，但现有证据表明该障碍并不罕�
 **年份**: 2010  
 **DOI**: [10/ggwhtt](https://doi.org/10/ggwhtt)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/ggwhtt](https://pubmed.ncbi.nlm.nih.gov/?term=10/ggwhtt)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/ggwhtt](https://pubmed.ncbi.nlm.nih.gov/?term = 10/ggwhtt)  
 
 **摘要（中文）**: 暂无摘要
 
@@ -30,7 +30,7 @@ DPDR的流行病学研究相对匮乏，但现有证据表明该障碍并不罕�
 **年份**: 2001  
 **DOI**: [10.1007/s001270050291](https://doi.org/10.1007/s001270050291)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1007/s001270050291](https://pubmed.ncbi.nlm.nih.gov/?term=10.1007/s001270050291)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1007/s001270050291](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1007/s001270050291)  
 
 **摘要（中文）**: 1008名北卡罗来纳州农村成人电话调查结果显示，去人格化发生率为19.1%，去现实化为14.4%，任一解离体验为23.4%。女性显著高于男性（26.5% vs 19.5%），慢性疼痛增加解离频率，而年龄增长和就业降低频率。
 
@@ -45,7 +45,7 @@ DPDR的流行病学研究相对匮乏，但现有证据表明该障碍并不罕�
 **年份**: 2024  
 **DOI**: [10.1186/s12888-024-05658-7](https://doi.org/10.1186/s12888-024-05658-7)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-05658-7](https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-05658-7)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-05658-7](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1186/s12888-024-05658-7)  
 
 **摘要（中文）**: 10422名中老年人5年随访研究显示，共病DP/DR症状的抑郁症患者与不共病者相比，生活质量更低、社会心理压力大、身体健康状况更差。共病DP/DR使抑郁复发或持续风险增加一倍以上，仅6.9%实现缓解。
 
