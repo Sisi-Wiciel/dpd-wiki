@@ -42,13 +42,14 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
-          context: .
-          push: true
-          tags: |
-            ghcr.io/${{ env.REPO_LOWER }}/dpd-wiki:latest
-            ghcr.io/${{ env.REPO_LOWER }}/dpd-wiki:${{ github.sha }}
-          cache-from: type=registry,ref=ghcr.io/${{ env.REPO_LOWER }}/dpd-wiki:latest
-          cache-to: type=inline
+            context: .
+            push: true
+            tags: |
+              ghcr.io/${{ env.REPO_LOWER }}/dpd-wiki:latest
+              ghcr.io/${{ env.REPO_LOWER }}/dpd-wiki:${{ github.sha }}
+            cache-from: type=registry,ref=ghcr.io/${{ env.REPO_LOWER }}/dpd-wiki:latest
+            cache-to: type=inline
+            load: false
 
       - name: Deploy to server
         if: github.ref == 'refs/heads/main'
