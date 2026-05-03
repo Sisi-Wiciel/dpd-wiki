@@ -41,4 +41,4 @@ Depersonalization is a protective mechanism, not a sign of "madness". It can be 
 
 - [Derealization](./derealization)
 - [Diagnostic Criteria](./diagnostic-criteria)
-- [Grounding Techniques](../strategies/grounding-techniques)
+- [Landing Techniques](../strategies/landing-techniques)

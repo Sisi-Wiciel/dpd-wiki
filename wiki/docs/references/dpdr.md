@@ -17,30 +17,11 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **原文链接**: [https://doi.org/10.1037/xhp0001153](https://doi.org/10.1037/xhp0001153)  
 **PubMed**: 无  
 
-**摘要（中文）**: 暂无摘要
-
-**摘要（英文）**: 暂无摘要
 
 **一句话概括**: DPDR患者对身体自我的优先级处理受损，但不影响抽象自我相关信息。
 
 ---
 
-### [2] Dpdr 自我与现实感任务电池框架图
-**作者**: OpenClaw; Zheng S.  
-**年份**:   
-**DOI**: 无  
-**原文链接**: [本地文档](https://www.zotero.org/groups/4182841)  
-**PubMed**: 无  
-
-**摘要（中文）**: 围绕 DPDR 构建自我与现实感任务电池的框架文档，提出五大核心测量域及任务-指标-多模态联动的总体结构。
-
-**摘要（英文）**: 围绕 DPDR 构建自我与现实感任务电池的框架文档，提出五大核心测量域及任务-指标-多模态联动的总体结构。
-
-**一句话概括**: 提出DPDR自我与现实感测量的五大核心域及任务电池框架。
-
----
-
-### [3] Dpdr任务文献清单：自我真实感与环境真实感任务
 **作者**: OpenClaw; Zheng S.  
 **年份**:   
 **DOI**: 无  
@@ -176,5 +157,5 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 ---
 
 :::info 贡献者
-文献来源于 [Zotero 库](https://www.zotero.org/groups/dpdr_wiki)，已获得授权整理。如需添加或修改内容，欢迎提交 PR。
+本页面内容由 **郑思思** 整理编写。
 :::

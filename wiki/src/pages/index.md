@@ -30,4 +30,4 @@ DPDR 是 **Depersonalization-Derealization Disorder** 的缩写，指人格解�
 - [人格解体](/docs/symptoms/depersonalization) - 了解人格解体的表现
 - [现实解体](/docs/symptoms/derealization) - 了解现实解体的表现
 - [诊断标准](/docs/symptoms/diagnostic-criteria) - DSM-5 诊断要点
-- [接地技术](/docs/strategies/grounding-techniques) - 缓解症状的日常方法
+- [着陆技术](/docs/strategies/landing-techniques) - 缓解症状的日常方法

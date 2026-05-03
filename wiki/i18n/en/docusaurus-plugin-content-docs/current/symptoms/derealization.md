@@ -28,7 +28,7 @@ Derealization refers to the experience of the surrounding world feeling unreal, 
 
 ## Coping Strategies
 
-1. **5-4-3-2-1 grounding**: Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste
+1. **5-4-3-2-1 landing**: Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste
 2. **Cold stimulation**: Wash face with cold water or hold ice
 3. **Physical movement**: Light physical activity helps return to the present
 4. **Social connection**: Talk with a trusted person
@@ -41,4 +41,4 @@ Derealization is the brain's way of processing overwhelming arousal. It will pas
 
 - [Depersonalization](./depersonalization)
 - [Diagnostic Criteria](./diagnostic-criteria)
-- [Grounding Techniques](../strategies/grounding-techniques)
+- [Landing Techniques](../strategies/landing-techniques)

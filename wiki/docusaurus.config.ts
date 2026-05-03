@@ -90,7 +90,7 @@ const config: Config = {
             },
             {
               label: '应对策略',
-              to: '/docs/strategies/grounding-techniques',
+              to: '/docs/strategies/landing-techniques',
             },
             {
               label: '资源',

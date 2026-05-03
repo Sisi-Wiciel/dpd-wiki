@@ -161,5 +161,5 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 ---
 
 :::info 贡献者
-文献来源于 [Zotero 库](https://www.zotero.org/groups/dpdr_wiki)，已获得授权整理。如需添加或修改内容，欢迎提交 PR。
+本页面内容由 **郑思思** 整理编写。
 :::

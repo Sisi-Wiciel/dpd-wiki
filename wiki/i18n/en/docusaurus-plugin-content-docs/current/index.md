@@ -30,4 +30,4 @@ This site provides educational content for informational purposes only and does 
 - [Depersonalization](./symptoms/depersonalization) - Understand depersonalization symptoms
 - [Derealization](./symptoms/derealization) - Understand derealization symptoms
 - [Diagnostic Criteria](./symptoms/diagnostic-criteria) - DSM-5 diagnostic points
-- [Grounding Techniques](./strategies/grounding-techniques) - Daily methods to manage symptoms
+- [Landing Techniques](./strategies/landing-techniques) - Daily methods to manage symptoms

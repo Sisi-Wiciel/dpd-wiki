@@ -23,7 +23,7 @@ const sidebars: SidebarsConfig = {
       label: '应对策略',
       collapsed: false,
       items: [
-        'strategies/grounding-techniques',
+        'strategies/landing-techniques',
         'strategies/therapy-approaches',
         'strategies/emergency-support',
         'strategies/daily-management',
