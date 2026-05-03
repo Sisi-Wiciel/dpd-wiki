@@ -10,12 +10,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ## 文献列表
 
-### [1] Randomized trial of a generative AI chatbot for mental health treatment
-**作者**: Heinz M.; Mackin D.; Trudeau B.; Bhattacharya S.  
-**年份**: 2025  
-**DOI**: [10.1056/AIoa2400802](https://doi.org/10.1056/AIoa2400802)  
-**原文链接**: [https://ai.nejm.org/doi/abs/10.1056/AIoa2400802](https://ai.nejm.org/doi/abs/10.1056/AIoa2400802)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1056/AIoa2400802](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1056/AIoa2400802)  
+### [1] Heinz, M., Mackin, D., Trudeau, B., & Bhattacharya, S.
+
+(2025).
+
+**Randomized trial of a generative AI chatbot for mental health treatment**
+
+[原文链接](https://doi.org/10.1056/AIoa2400802)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本随机对照试验测试了专家微调的生成式AI治疗聊天机器人Therabot对心理健康治疗的效果。210名MDD、GAD或CHR-FED成人受试者接受4周干预，结果显示AI聊天机器人可显著减轻抑郁、焦虑和早期功能退化症状。
 
@@ -25,12 +28,9 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [2] 中医辨治人格解体神经症
-**作者**:   
-**年份**: 2010  
-**DOI**: 无  
-**原文链接**: [https://kns.cnki.net/kcms/detail/detail.aspx?dbcode = CJFD&dbname = CJFD2010&filename = HNZY201011029&v = L%25mmd2FD5VKGKnSBDDa7CYkkc6GN2cRNRBpPjVdTJVRh18oLCiR4%25mmd2B3o%25mmd2F7SexrC%25mmd2FdjM1q6](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode = CJFD&dbname = CJFD2010&filename = HNZY201011029&v = L%25mmd2FD5VKGKnSBDDa7CYkkc6GN2cRNRBpPjVdTJVRh18oLCiR4%25mmd2B3o%25mmd2F7SexrC%25mmd2FdjM1q6)  
-**PubMed**: 无  
+### [2] (2010).
+
+**中医辨治人格解体神经症**
 
 **摘要（中文）**: 人格解体神经症以非真实感和自身或环境疏远感为突出表现，中医分为心血虚、痰湿内蒙、痰瘀阻抑三型，治以补血养心、化痰启上、涤痰化瘀，注重养心持神、健脾益气、防止复发。
 
@@ -40,12 +40,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [3] Repetitive transcranial magnetic stimulation improves depersonalization: A case report
-**作者**: Jiménez-Genchi A.  
-**年份**: 2004  
-**DOI**: [10.1017/S1092852900009366](https://doi.org/10.1017/S1092852900009366)  
-**原文链接**: [https://www.embase.com/search/results?subaction = viewrecord&id = L38649726&from = export http://dx.doi.org/10.1017/S1092852900009366](https://www.embase.com/search/results?subaction = viewrecord&id = L38649726&from = export)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1017/S1092852900009366](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1017/S1092852900009366)  
+### [3] Jiménez-Genchi, A.
+
+(2004).
+
+**Repetitive transcranial magnetic stimulation improves depersonalization: A case report**
+
+[原文链接](https://doi.org/10.1017/S1092852900009366)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本案例报告描述了一名去人格化障碍患者接受左侧背外侧前额皮质6次重复经颅磁刺激治疗，去人格化评分降低28%。
 
@@ -55,12 +58,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [4] Ventrolateral prefrontal cortex repetitive transcranial magnetic stimulation in the treatment of depersonalization disorder: A consecutive case series
-**作者**: Jay E.; Nestler S.; Sierra M.; McClelland J.; Kekic M.; David A.  
-**年份**: 2016  
-**DOI**: [10.1016/j.psychres.2016.04.027](https://doi.org/10.1016/j.psychres.2016.04.027)  
-**原文链接**: [https://www.embase.com/search/results?subaction = viewrecord&id = L609924941&from = export http://dx.doi.org/10.1016/j.psychres.2016.04.027](https://www.embase.com/search/results?subaction = viewrecord&id = L609924941&from = export)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.psychres.2016.04.027](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.psychres.2016.04.027)  
+### [4] Jay, E., Nestler, S., Sierra, M., McClelland, J., Kekic, M., & David, A.
+
+(2016).
+
+**Ventrolateral prefrontal cortex repetitive transcranial magnetic stimulation in the treatment of depersonalization disorder: A consecutive case series**
+
+[原文链接](https://doi.org/10.1016/j.psychres.2016.04.027)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 7名耐药DPD患者接受右侧腹外侧前额皮质20次rTMS治疗，去人格化症状平均降低44%（范围2-83.5%），2例完全应答、4例部分应答、1例无应答。应答通常出现在前6次治疗，且无明显不良反应。
 
@@ -70,12 +76,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [5] Temporo-parietal junction stimulation in the treatment of depersonalization disorder
-**作者**: Mantovani A.; Simeon D.; Urban N.; Allart A.; Bulow P.; Lisanby S.  
-**年份**: 2010  
-**DOI**: [10.1016/j.biopsych.2010.03.007](https://doi.org/10.1016/j.biopsych.2010.03.007)  
-**原文链接**: [https://www.embase.com/search/results?subaction = viewrecord&id = L70129628&from = export http://dx.doi.org/10.1016/j.biopsych.2010.03.007](https://www.embase.com/search/results?subaction = viewrecord&id = L70129628&from = export)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.biopsych.2010.03.007](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.biopsych.2010.03.007)  
+### [5] Mantovani, A., Simeon, D., Urban, N., Allart, A., Bulow, P., & Lisanby, S.
+
+(2010).
+
+**Temporo-parietal junction stimulation in the treatment of depersonalization disorder**
+
+[原文链接](https://doi.org/10.1016/j.biopsych.2010.03.007)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 12名DPD患者接受右侧TPJ低频rTMS治疗6周。3周后整体样本去人格化评分降低24%，5名完成6周治疗的患者症状改善68%，无明显不良反应。
 
@@ -85,12 +94,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [6] Treatment of a patient with depersonalization disorder with low frequency repetitive transcranial magnetic stimulation of the right temporo-parietal junction in a private practice setting
-**作者**: Rachid F.  
-**年份**: 2017  
-**DOI**: [10.1097/PRA.0000000000000214](https://doi.org/10.1097/PRA.0000000000000214)  
-**原文链接**: [https://www.embase.com/search/results?subaction = viewrecord&id = L614870935&from = export http://dx.doi.org/10.1097/PRA.0000000000000214](https://www.embase.com/search/results?subaction = viewrecord&id = L614870935&from = export)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1097/PRA.0000000000000214](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1097/PRA.0000000000000214)  
+### [6] Rachid, F.
+
+(2017).
+
+**Treatment of a patient with depersonalization disorder with low frequency repetitive transcranial magnetic stimulation of the right temporo-parietal junction in a private practice setting**
+
+[原文链接](https://doi.org/10.1097/PRA.0000000000000214)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本案例报告描述了一名26岁DPD男性患者，病程6个月，对右侧TPJ低频rTMS治疗安全且显著有效。
 
@@ -100,12 +112,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [7] Treatment of depersonalization disorder with clomipramine
-**作者**: Simeon D.; Stein D.; Hollander E.  
-**年份**: 1998  
-**DOI**: [10.1016/S0006-3223(98)00023-7](https://doi.org/10.1016/S0006-3223(98)00023-7)  
-**原文链接**: [https://www.embase.com/search/results?subaction = viewrecord&id = L28389717&from = export http://dx.doi.org/10.1016/S0006-3223(98)00023-7](https://www.embase.com/search/results?subaction = viewrecord&id = L28389717&from = export)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/S0006-3223(98)00023-7](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/S0006-3223(98)00023-7)  
+### [7] Simeon, D., Stein, D., & Hollander, E.
+
+(1998).
+
+**Treatment of depersonalization disorder with clomipramine**
+
+[原文链接](https://doi.org/10.1016/S0006-3223(98)00023-700023-7))
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 8名DSM-III-R去人格化障碍患者进入双盲交叉试验，氯米帕明组2/7例显著改善，3例因不良反应早期退出。1例应答者在开放维持治疗4年期间症状保持几乎完全缓解，每次减药或换药均复发。氯米帕明可能是有效的治疗选择。
 
@@ -115,12 +130,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [8] A placebo-controlled, cross-over trial of lamotrigine in depersonalization disorder
-**作者**: Sierra M.; Phillips M.; Ivin G.; Krystal J.; David A.  
-**年份**: 2003  
-**DOI**: [10.1177/0269881103017001712](https://doi.org/10.1177/0269881103017001712)  
-**原文链接**: [https://www.embase.com/search/results?subaction = viewrecord&id = L36373147&from = export http://dx.doi.org/10.1177/0269881103017001712](https://www.embase.com/search/results?subaction = viewrecord&id = L36373147&from = export)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1177/0269881103017001712](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1177/0269881103017001712)  
+### [8] Sierra, M., Phillips, M., Ivin, G., Krystal, J., & David, A.
+
+(2003).
+
+**A placebo-controlled, cross-over trial of lamotrigine in depersonalization disorder**
+
+[原文链接](https://doi.org/10.1177/0269881103017001712)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 9名DSM-IV去人格化障碍患者接受12周拉莫三嗪或安慰剂双盲交叉试验。拉莫三嗪并不显著优于安慰剂，9例患者中无1例对拉莫三嗪产生应答。拉莫三嗪作为单一药物治疗DPD似乎无效。
 
@@ -130,12 +148,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [9] Targeting temporal parietal junction for assessing and treating disembodiment phenomena: A systematic review of TMS effect on depersonalization and derealization disorders (DPD) and body illusions
-**作者**: Orrù G.; Bertelloni D.; Cesari V.; Conversano C.; Gemignani A.  
-**年份**: 2021  
-**DOI**: [10.3934/Neuroscience.2021009](https://doi.org/10.3934/Neuroscience.2021009)  
-**原文链接**: [http://www.aimspress.com/article/doi/10.3934/Neuroscience.2021009](http://www.aimspress.com/article/doi/10.3934/Neuroscience.2021009)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.3934/Neuroscience.2021009](https://pubmed.ncbi.nlm.nih.gov/?term = 10.3934/Neuroscience.2021009)  
+### [9] Orrù, G., Bertelloni, D., Cesari, V., Conversano, C., & Gemignani, A.
+
+(2021).
+
+**Targeting temporal parietal junction for assessing and treating disembodiment phenomena: A systematic review of TMS effect on depersonalization and derealization disorders (DPD) and body illusions**
+
+[原文链接](https://doi.org/10.3934/Neuroscience.2021009)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本系统综述综合了TPJ的TMS治疗DPD和身体错觉的研究证据。8项研究符合纳入标准，结果表明针对TPJ的TMS是治疗DPD身体脱离现象的有前景技术。
 
@@ -145,12 +166,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [10] Testing a neurobiological model of depersonalization disorder using repetitive transcranial magnetic stimulation
-**作者**: Jay E.; Sierra M.; Van Den Eynde F.; Rothwell J.; David A.  
-**年份**: 2014  
-**DOI**: [10.1016/j.brs.2013.12.002](https://doi.org/10.1016/j.brs.2013.12.002)  
-**原文链接**: [https://www.embase.com/search/results?subaction = viewrecord&id = L52959177&from = export http://dx.doi.org/10.1016/j.brs.2013.12.002](https://www.embase.com/search/results?subaction = viewrecord&id = L52959177&from = export)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.brs.2013.12.002](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.brs.2013.12.002)  
+### [10] Jay, E., Sierra, M., Van, F., Rothwell, J., & David, A.
+
+(2014).
+
+**Testing a neurobiological model of depersonalization disorder using repetitive transcranial magnetic stimulation**
+
+[原文链接](https://doi.org/10.1016/j.brs.2013.12.002)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 17名耐药DPD患者和20名对照随机接受右侧VLPFC或TPJ单次rTMS。右侧VLPFC rTMS显著增加皮肤电导容量和自发波动，支持VLPFC活动增强与情绪麻木相关的模型。两种部位rTMS均降低去人格化评分，但与生理唤醒无关。
 
@@ -160,12 +184,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [11] Combined Therapies–rTMS meets CBT. Novel approach for the treatment of Derealization/Depersonalization Syndrome
-**作者**: Wulf L.; Palm U.; Padberg F.  
-**年份**: 2019  
-**DOI**: [10.1016/j.encep.2019.04.046](https://doi.org/10.1016/j.encep.2019.04.046)  
-**原文链接**: [https://www.embase.com/search/results?subaction = viewrecord&id = L2002053447&from = export http://dx.doi.org/10.1016/j.encep.2019.04.046](https://www.embase.com/search/results?subaction = viewrecord&id = L2002053447&from = export)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.encep.2019.04.046](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.encep.2019.04.046)  
+### [11] Wulf, L., Palm, U., & Padberg, F.
+
+(2019).
+
+**Combined Therapies–rTMS meets CBT. Novel approach for the treatment of Derealization/Depersonalization Syndrome**
+
+[原文链接](https://doi.org/10.1016/j.encep.2019.04.046)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 4名DDS患者随机分配至右侧VLPFC或TPJ rTMS协议，同时接受CBT（正念、暴露、肌肉放松和运动）。两种方案均耐受良好，部分患者症状显著改善，暴露练习和运动获益最大。
 
@@ -175,12 +202,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [12] Safety and effectiveness of transcutaneous auricular vagus nerve stimulation on patients with depersonalization-derealization disorder: Study protocol for a randomized controlled trial
-**作者**: Zhao Y.; Zheng S.; Zhu H.; Yin D.; Fang M.; Jia H.  
-**年份**: 2024  
-**DOI**: [10.1186/s13063-024-08658-w](https://doi.org/10.1186/s13063-024-08658-w)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s13063-024-08658-w](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1186/s13063-024-08658-w)  
+### [12] Zhao, Y., Zheng, S., Zhu, H., Yin, D., Fang, M., & Jia, H.
+
+(2024).
+
+**Safety and effectiveness of transcutaneous auricular vagus nerve stimulation on patients with depersonalization-derealization disorder: Study protocol for a randomized controlled trial**
+
+[原文链接](https://doi.org/10.1186/s13063-024-08658-w)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本研究方案探讨经耳迷走神经刺激（taVNS）治疗DPD的安全性和有效性。DPD患者随机分配至实验组（真刺激）或对照组（伪刺激）6周治疗，通过症状评分、抑郁焦虑认知功能和社会功能评估疗效。
 
@@ -190,12 +220,15 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [13] Online structured dance/movement therapy reduces bodily detachment in depersonalization-derealization disorder
-**作者**: Millman L.; Hunter E.; Terhune D.; Orgs G.  
-**年份**: 2023  
-**DOI**: [10.1016/j.ctcp.2023.101749](https://doi.org/10.1016/j.ctcp.2023.101749)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.ctcp.2023.101749](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.ctcp.2023.101749)  
+### [13] Millman, L., Hunter, E., Terhune, D., & Orgs, G.
+
+(2023).
+
+**Online structured dance/movement therapy reduces bodily detachment in depersonalization-derealization disorder**
+
+[原文链接](https://doi.org/10.1016/j.ctcp.2023.101749)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本研究开发两种在线舞蹈任务（身体觉察训练和舞蹈运动）以减轻DDD患者的身体脱离。31名DDD患者和29名对照交叉完成两种任务。两种任务均降低DDD组症状，舞蹈运动增加正念更明显。
 
@@ -205,20 +238,24 @@ DPDR目前尚无统一标准治疗方案，现有研究探索了多种干预手�
 
 ---
 
-### [14] Mindfulness-Based Cognitive Therapy in Depersonalization-Derealization disorder: A Case Report
-**作者**: Mishra S.; Das N.; Mohapatra D.; Mishra B.  
-**年份**: 2022  
-**DOI**: [10.1177/02537176211040259](https://doi.org/10.1177/02537176211040259)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1177/02537176211040259](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1177/02537176211040259)  
+### [14] Mishra, S., Das, N., Mohapatra, D., & Mishra, B.
 
-**摘要（中文）**: 暂无摘要
+(2022).
 
-**摘要（英文）**: 暂无摘要
+**Mindfulness-Based Cognitive Therapy in Depersonalization-Derealization disorder: A Case Report**
 
-**一句话概括**: 正念认知疗法治疗DPD的案例报告。
+[原文链接](https://doi.org/10.1177/02537176211040259)
+
+**PubMed**: PubMed
+
+**摘要（中文）**: 本案例报告探讨了正念认知疗法（MBCT）治疗DPD的效果。一名25岁男性DPD患者接受8次MBCT治疗（每次60分钟，每周2次），去人格化评分从92分降至32分（降低65%），症状完全缓解，并在6个月随访中维持改善。提示MBCT可作为DPD的有效心理干预手段。
+
+**摘要（英文）**: This case report explores the effects of Mindfulness-Based Cognitive Therapy (MBCT) on DPD. A 25-year-old male DPD patient received 8 sessions of MBCT (60 minutes each, twice weekly). Depersonalization score decreased from 92 to 32 (65% reduction), with complete symptom remission maintained at 6-month follow-up. MBCT may serve as an effective psychological intervention for DPD.
+
+**一句话概括**: 正念认知疗法治疗DPD有效，8次治疗后症状降低65%并维持6个月。
 
 ---
+
 
 :::info 贡献者
 本页面内容由 **郑思思** 整理编写。

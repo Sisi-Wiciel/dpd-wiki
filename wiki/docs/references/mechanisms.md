@@ -10,12 +10,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ## 文献列表
 
-### [1] Large-Scale Functional Brain Network Architecture Changes Associated With Trauma-Related Dissociation
-**作者**: Lebois L.; Li M.; Baker J.; Wolff J.; Wang D.; Lambros A.; Grinspoon E.; Winternitz S.; Ren J.; Gönenç A.; Gruber S.; Ressler K.; Liu H.; Kaufman M.  
-**年份**: 2021  
-**DOI**: [10.1176/appi.ajp.2020.19060647](https://doi.org/10.1176/appi.ajp.2020.19060647)  
-**原文链接**: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8030225/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8030225/)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1176/appi.ajp.2020.19060647](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1176/appi.ajp.2020.19060647)  
+### [1] Lebois, L., Li, M., Baker, J., Wolff, J., Wang, D., Lambros, A., Grinspoon, E., Winternitz, S., Ren, J., Gönenç, A., Gruber, S., Ressler, K., Liu, H., & Kaufman, M.
+
+(2021).
+
+**Large-Scale Functional Brain Network Architecture Changes Associated With Trauma-Related Dissociation**
+
+[原文链接](https://doi.org/10.1176/appi.ajp.2020.19060647)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本研究对65名有童年虐待史和当前PTSD的女性进行静息态功能连接分析，发现默认模式和额顶控制网络间的连接与解离严重程度相关，脑网络连接可提供对症状严重程度的无偏估计。
 
@@ -25,12 +28,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [2] A review of the relation between dissociation, memory, executive functioning and social cognition in military members and civilians with neuropsychiatric conditions
-**作者**: McKinnon M.; Boyd J.; Frewen P.; Lanius U.; Jetly R.; Richardson J.; Lanius R.  
-**年份**: 2016  
-**DOI**: [10.1016/j.neuropsychologia.2016.07.017](https://doi.org/10.1016/j.neuropsychologia.2016.07.017)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neuropsychologia.2016.07.017](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.neuropsychologia.2016.07.017)  
+### [2] McKinnon, M., Boyd, J., Frewen, P., Lanius, U., Jetly, R., Richardson, J., & Lanius, R.
+
+(2016).
+
+**A review of the relation between dissociation, memory, executive functioning and social cognition in military members and civilians with neuropsychiatric conditions**
+
+[原文链接](https://doi.org/10.1016/j.neuropsychologia.2016.07.017)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本综述探讨解离症状与注意、执行功能、记忆和社会认知功能障碍的关系。提出两个神经生物学机制：丘脑水平的功能性感觉传入阻滞和关键脑网络间功能连接改变可能介导解离症状与认知功能障碍的联系。
 
@@ -40,12 +46,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [3] Dissociation as a disorder of integration–On the footsteps of Pierre Janet
-**作者**: Scalabrini A.; Mucci C.; Esposito R.; Damiani S.; Northoff G.  
-**年份**: 2020  
-**DOI**: [10/ggwh4v](https://doi.org/10/ggwh4v)  
-**原文链接**: [10/ggwh4v](https://doi.org/10/ggwh4v)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/ggwh4v](https://pubmed.ncbi.nlm.nih.gov/?term = 10/ggwh4v)  
+### [3] Scalabrini, A., Mucci, C., Esposito, R., Damiani, S., & Northoff, G.
+
+(2020).
+
+**Dissociation as a disorder of integration–On the footsteps of Pierre Janet**
+
+[原文链接](https://doi.org/10/ggwh4v)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 19世纪Pierre Janet提出解离是心理功能整合受损的表现状态。本综述将Janet的原始概念与当前脑成像研究结合，提出三个动态整合的神经机制：区域水平的时空绑定、网络水平的时空同步和全局水平的时空整合化，这些机制可能与解离的不同症状表现相关。
 
@@ -55,27 +64,33 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [4] Temporal lobe epilepsy and the phobic anxiety-depersonalization syndrome. II. Practical and theoretical considerations
-**作者**: Roth M.; Harper M.  
-**年份**: 1962  
-**DOI**: [10/d6994n](https://doi.org/10/d6994n)  
-**原文链接**: [10/d6994n](https://doi.org/10/d6994n)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/d6994n](https://pubmed.ncbi.nlm.nih.gov/?term = 10/d6994n)  
+### [4] Roth, M., & Harper, M.
 
-**摘要（中文）**: 暂无摘要
+(1962).
 
-**摘要（英文）**: 暂无摘要
+**Temporal lobe epilepsy and the phobic anxiety-depersonalization syndrome. II. Practical and theoretical considerations**
+
+[原文链接](https://doi.org/10/d6994n)
+
+**PubMed**: PubMed
+
+**摘要（中文）**: 本综述发表于1962年，深入探讨了颞叶癫痫与焦虑恐惧-去人格化综合征之间的理论与实践关系，涵盖临床表现、诊断鉴别和治疗考量，为理解DPDR的历史起源和概念演变提供重要参考。
+
+**摘要（英文）**: This review, published in 1962, provides an in-depth exploration of the theoretical and practical relationship between temporal lobe epilepsy and the phobic anxiety-depersonalization syndrome, covering clinical manifestations, diagnostic differentiation and treatment considerations, offering important reference for understanding the historical origins and conceptual evolution of DPDR.
 
 **一句话概括**: 颞叶癫痫与焦虑恐惧-去人格化综合征的理论和实践探讨。
 
 ---
 
-### [5] Depersonalization disorder: thinking without feeling
-**作者**: Phillips M.; Medford N.; Senior C.; Bullmore E.; Suckling J.; Brammer M.; Andrew C.; Sierra M.; Williams S.; David A.  
-**年份**: 2001  
-**DOI**: [10.1016/s0925-4927(01)00119-6](https://doi.org/10.1016/s0925-4927(01)00119-6)  
-**原文链接**: [https://api.elsevier.com/content/article/PII:S0925492701001196?httpAccept = text/xml](https://api.elsevier.com/content/article/PII:S0925492701001196?httpAccept = text/xml)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/s0925-4927(01)00119-6](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/s0925-4927(01)00119-6)  
+### [5] Phillips, M., Medford, N., Senior, C., Bullmore, E., Suckling, J., Brammer, M., Andrew, C., Sierra, M., Williams, S., & David, A.
+
+(2001).
+
+**Depersonalization disorder: thinking without feeling**
+
+[原文链接](https://doi.org/10.1016/s0925-4927(01)00119-600119-6))
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 去人格化障碍患者对厌恶刺激的主观情绪体验缺失，fMRI显示情绪相关脑区（岛叶和枕颞皮层）激活降低，而右侧腹内侧前额叶激活。核心现象——主观情绪体验缺失——与情绪敏感脑区反应降低和情绪调节脑区反应增强相关。
 
@@ -85,12 +100,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [6] Basal norepinephrine in depersonalization disorder
-**作者**: Simeon D.; Guralnik O.; Knutelska M.; Yehuda R.; Schmeidler J.  
-**年份**: 2003  
-**DOI**: [10/dvb8mj](https://doi.org/10/dvb8mj)  
-**原文链接**: [10/dvb8mj](https://doi.org/10/dvb8mj)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/dvb8mj](https://pubmed.ncbi.nlm.nih.gov/?term = 10/dvb8mj)  
+### [6] Simeon, D., Guralnik, O., Knutelska, M., Yehuda, R., & Schmeidler, J.
+
+(2003).
+
+**Basal norepinephrine in depersonalization disorder**
+
+[原文链接](https://doi.org/10/dvb8mj)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本初步研究检测去人格化障碍的基底去甲肾上腺素水平。DPD组24小时尿去甲肾上腺素显著高于对照组，且与解离严重程度呈强负相关（r = -0.88）。提示随着解离严重程度增加，基底去甲肾上腺素反而下降。
 
@@ -100,12 +118,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [7] Face processing in depersonalization: An fMRI study of the unfamiliar self
-**作者**: Ketay S.; Hamilton H.; Haas B.; Simeon D.  
-**年份**: 2014  
-**DOI**: [10.1016/j.pscychresns.2014.02.003](https://doi.org/10.1016/j.pscychresns.2014.02.003)  
-**原文链接**: [https://api.elsevier.com/content/article/PII:S0925492714000304?httpAccept = text/xml](https://api.elsevier.com/content/article/PII:S0925492714000304?httpAccept = text/xml)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2014.02.003](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.pscychresns.2014.02.003)  
+### [7] Ketay, S., Hamilton, H., Haas, B., & Simeon, D.
+
+(2014).
+
+**Face processing in depersonalization: An fMRI study of the unfamiliar self**
+
+[原文链接](https://doi.org/10.1016/j.pscychresns.2014.02.003)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 9名DPD参与者和10名对照在fMRI下观看自我和陌生人面孔。DPD组对自我vs陌生面孔在多个脑区表现出显著更强的激活，提示自我熟悉性加工异常。
 
@@ -115,12 +136,11 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [8] Depersonalization/derealization disorder and neural correlates of trauma-related pathology: a critical review
-**作者**: Murphy R.  
-**年份**: 2023  
-**DOI**: 无  
-**原文链接**: 无  
-**PubMed**: 无  
+### [8] Murphy, R.
+
+(2023).
+
+**Depersonalization/derealization disorder and neural correlates of trauma-related pathology: a critical review**
 
 **摘要（中文）**: 解离和现实解体涉及与自我和周围环境疏离感相关的心智异常。DPDR的发病与压力防御级联（包括自主神经功能、HPA轴和神经环路）及更复杂的解离特征（如情绪调节障碍和身体图式解体）相关。DPDR不仅涉及感觉整合扰乱，还涉及多个大规模脑网络。
 
@@ -130,12 +150,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [9] Interoceptive-reflective regions differentiate alexithymia traits in depersonalization disorder
-**作者**: Lemche E.; Brammer M.; David A.; Surguladze S.; Phillips M.; Sierra M.; Williams S.; Giampietro V.  
-**年份**: 2013  
-**DOI**: [10.1016/j.pscychresns.2013.05.006](https://doi.org/10.1016/j.pscychresns.2013.05.006)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2013.05.006](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.pscychresns.2013.05.006)  
+### [9] Lemche, E., Brammer, M., David, A., Surguladze, S., Phillips, M., Sierra, M., Williams, S., & Giampietro, V.
+
+(2013).
+
+**Interoceptive-reflective regions differentiate alexithymia traits in depersonalization disorder**
+
+[原文链接](https://doi.org/10.1016/j.pscychresns.2013.05.006)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本研究探讨DPD与述情障碍是否共享情绪调节异常脑机制。DPD患者情绪面孔加工脑区与述情障碍量表评分相关，提示述情障碍在DPD情绪失调中起重要作用，可能与内感受限制相关。
 
@@ -145,12 +168,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [10] Depersonalization Disorder: A Functional Neuroanatomical Perspective
-**作者**: Phillips M.; Sierra M.  
-**年份**: 2003  
-**DOI**: [10.1080/1025389031000138538](https://doi.org/10.1080/1025389031000138538)  
-**原文链接**: [http://www.tandfonline.com/doi/pdf/10.1080/1025389031000138538](http://www.tandfonline.com/doi/pdf/10.1080/1025389031000138538)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/1025389031000138538](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1080/1025389031000138538)  
+### [10] Phillips, M., & Sierra, M.
+
+(2003).
+
+**Depersonalization Disorder: A Functional Neuroanatomical Perspective**
+
+[原文链接](https://doi.org/10.1080/1025389031000138538)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 情绪体验减弱是去人格化障碍的核心特征。患者通常主诉情绪麻木，并将非真实感归因于感知缺乏情感"着色"。神经影像和心理生理学研究支持这些假设，显示DPD患者对情绪刺激的自主神经反应减弱、情绪相关脑区活动降低，而前额叶皮层活动增强。症状可能与情绪反应模式的逆转相关。
 
@@ -160,12 +186,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [11] Depersonalization: A selective impairment of self-awareness
-**作者**: Sierra M.; David A.  
-**年份**: 2011  
-**DOI**: [10.1016/j.concog.2010.10.018](https://doi.org/10.1016/j.concog.2010.10.018)  
-**原文链接**: [https://api.elsevier.com/content/article/PII:S1053810010002060?httpAccept = text/xml](https://api.elsevier.com/content/article/PII:S1053810010002060?httpAccept = text/xml)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.concog.2010.10.018](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.concog.2010.10.018)  
+### [11] Sierra, M., & David, A.
+
+(2011).
+
+**Depersonalization: A selective impairment of self-awareness**
+
+[原文链接](https://doi.org/10.1016/j.concog.2010.10.018)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 去人格化由前额叶-边缘（特别是前岛叶）抑制机制导致，表现为情绪麻木和感知脱节。功能神经影像和心理生理学研究支持该模型，显示DPD患者对厌恶情绪刺激表现出前额叶激活增强和岛叶/边缘区激活降低。
 
@@ -175,12 +204,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [12] Depersonalization disorder: pharmacological approaches
-**作者**: Sierra M.  
-**年份**: 2008  
-**DOI**: [10.1586/14737175.8.1.19](https://doi.org/10.1586/14737175.8.1.19)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1586/14737175.8.1.19](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1586/14737175.8.1.19)  
+### [12] Sierra, M.
+
+(2008).
+
+**Depersonalization disorder: pharmacological approaches**
+
+[原文链接](https://doi.org/10.1586/14737175.8.1.19)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: DPD是慢性和痛苦性疾病，普通抗抑郁药和抗精神病药疗效有限。阿片受体拮抗剂（如纳曲酮和纳洛酮）对部分患者有效，拉莫三嗪作为单一药物无效但作为SSRIs辅助用药有益，氯硝西泮合并SSRIs对高基线焦虑患者有益。
 
@@ -190,12 +222,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [13] Depersonalization: Neurobiological perspectives
-**作者**: Sierra M.; Berrios G.  
-**年份**: 1998  
-**DOI**: [10.1016/S0006-3223(98)00015-8](https://doi.org/10.1016/S0006-3223(98)00015-8)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/S0006-3223(98)00015-8](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/S0006-3223(98)00015-8)  
+### [13] Sierra, M., & Berrios, G.
+
+(1998).
+
+**Depersonalization: Neurobiological perspectives**
+
+[原文链接](https://doi.org/10.1016/S0006-3223(98)00015-800015-8))
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本综述提出新模型：右侧背外侧前额叶激活导致警觉增强和前扣带回抑制，产生"意识空白"和"疼痛 indifference"体验；左侧前额叶机制抑制杏仁核，导致情绪低落和"非真实感"。
 
@@ -205,12 +240,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [14] Potential Targets for Noninvasive Brain Stimulation on Depersonalization-Derealization Disorder
-**作者**: Zheng S.; Song N.; Wang S.; Zhu H.; Song M.; Jia Y.; Jia H.  
-**年份**: 2022  
-**DOI**: [10.3390/brainsci12081112](https://doi.org/10.3390/brainsci12081112)  
-**原文链接**: [https://www.mdpi.com/2076-3425/12/8/1112](https://www.mdpi.com/2076-3425/12/8/1112)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.3390/brainsci12081112](https://pubmed.ncbi.nlm.nih.gov/?term = 10.3390/brainsci12081112)  
+### [14] Zheng, S., Song, N., Wang, S., Zhu, H., Song, M., Jia, Y., & Jia, H.
+
+(2022).
+
+**Potential Targets for Noninvasive Brain Stimulation on Depersonalization-Derealization Disorder**
+
+[原文链接](https://doi.org/10.3390/brainsci12081112)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本研究通过三项分析流程识别DPD非侵入性脑刺激的潜在靶点：Meta分析、功能连接分析和ROI分析。识别出双侧内侧前额叶、背外侧前额叶、顶上小叶、颞上回和右侧腹外侧前额叶等多个潜在刺激靶点。
 
@@ -220,12 +258,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [15] Limbic and prefrontal responses to facial emotion expressions in depersonalization
-**作者**: Lemche E.; Surguladze S.; Giampietro V.; Anilkumar A.; Brammer M.; Sierra M.; Chitnis X.; Williams S.; Gasston D.; Joraschky P.; David A.; Phillips M.  
-**年份**: 2007  
-**DOI**: [10.1097/WNR.0b013e328057deb3](https://doi.org/10.1097/WNR.0b013e328057deb3)  
-**原文链接**: [https://journals.lww.com/10.1097/WNR.0b013e328057deb3](https://journals.lww.com/10.1097/WNR.0b013e328057deb3)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1097/WNR.0b013e328057deb3](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1097/WNR.0b013e328057deb3)  
+### [15] Lemche, E., Surguladze, S., Giampietro, V., Anilkumar, A., Brammer, M., Sierra, M., Chitnis, X., Williams, S., Gasston, D., Joraschky, P., David, A., & Phillips, M.
+
+(2007).
+
+**Limbic and prefrontal responses to facial emotion expressions in depersonalization**
+
+[原文链接](https://doi.org/10.1097/WNR.0b013e328057deb3)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 9名DPD患者和12名对照在fMRI下观看不同强度的快乐和悲伤面孔。DPD患者对强度递增的情绪面孔表现出皮下边缘区活动降低，且双侧背外侧前额叶与皮肤电导呈负相关，提示情绪唤醒时前额叶调控异常。
 
@@ -235,12 +276,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [16] Emotional Experience and Awareness of Self: Functional MRI Studies of Depersonalization Disorder
-**作者**: Medford N.; Sierra M.; Stringaris A.; Giampietro V.; Brammer M.; David A.  
-**年份**: 2016  
-**DOI**: [10.3389/fpsyg.2016.00432](https://doi.org/10.3389/fpsyg.2016.00432)  
-**原文链接**: [http://ovidsp.ovid.com/ovidweb.cgi?T = JS&PAGE = reference&D = psyc13&NEWS = N&AN = 2016-40453-001](http://ovidsp.ovid.com/ovidweb.cgi?T = JS&PAGE = reference&D = psyc13&NEWS = N&AN = 2016-40453-001)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.3389/fpsyg.2016.00432](https://pubmed.ncbi.nlm.nih.gov/?term = 10.3389/fpsyg.2016.00432)  
+### [16] Medford, N., Sierra, M., Stringaris, A., Giampietro, V., Brammer, M., & David, A.
+
+(2016).
+
+**Emotional Experience and Awareness of Self: Functional MRI Studies of Depersonalization Disorder**
+
+[原文链接](https://doi.org/10.3389/fpsyg.2016.00432)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本fMRI研究探讨DPD情绪加工的神经解剖学基础及治疗后的改变。DPD情绪体验减弱与岛叶活动减弱相关，症状改善与岛叶活动增加相关。右侧腹外侧前额叶可能是"自上而下"情绪抑制的关键脑区。
 
@@ -250,12 +294,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [17] Emotional memory in depersonalization disorder: A functional MRI study
-**作者**: Medford N.; Brierley B.; Brammer M.; Bullmore E.; David A.; Phillips M.  
-**年份**: 12/2  
-**DOI**: [10.1016/j.pscychresns.2006.05.007](https://doi.org/10.1016/j.pscychresns.2006.05.007)  
-**原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0925492706000941](https://linkinghub.elsevier.com/retrieve/pii/S0925492706000941)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.pscychresns.2006.05.007](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.pscychresns.2006.05.007)  
+### [17] Medford, N., Brierley, B., Brammer, M., Bullmore, E., David, A., & Phillips, M.
+
+(12/2).
+
+**Emotional memory in depersonalization disorder: A functional MRI study**
+
+[原文链接](https://doi.org/10.1016/j.pscychresns.2006.05.007)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 10名DPD患者和对照在fMRI下完成情绪词语记忆任务。DPD患者对情绪词语的识别增强，但中性词的情绪增强记忆缺失。编码和识别期间情绪加工区未激活，提示情绪材料加工异常。
 
@@ -265,12 +312,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [18] Cognitive load and autonomic response patterns under negative priming demand in depersonalization-derealization disorder.
-**作者**: Lemche E.; Sierra-Siegert M.; David A.; Phillips M.; Gasston D.; Williams S.; Giampietro V.  
-**年份**: 2016  
-**DOI**: [10.1111/ejn.13183](https://doi.org/10.1111/ejn.13183)  
-**原文链接**: [https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fejn.13183](https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fejn.13183)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1111/ejn.13183](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1111/ejn.13183)  
+### [18] Lemche, E., Sierra-Siegert, M., David, A., Phillips, M., Gasston, D., Williams, S., & Giampietro, V.
+
+(2016).
+
+**Cognitive load and autonomic response patterns under negative priming demand in depersonalization-derealization disorder.**
+
+[原文链接](https://doi.org/10.1111/ejn.13183)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 16名DPRD患者和对照完成Stroop/负启动联合任务。DPRD患者在认知负荷期间自主神经模式逆转：对照显示认知负荷与自主反应负相关，而患者显示正相关。DPRD仅显示轻度执行认知特异，但支持自主功能异常。
 
@@ -280,12 +330,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [19] How do you feel when you can't feel your body? Interoception, functional connectivity and emotional processing in depersonalization-derealization disorder.
-**作者**: Sedeno L.; Couto B.; Melloni M.; Canales-Johnson A.; Yoris A.; Baez S.; Esteves S.; Velasquez M.; Barttfeld P.; Sigman M.; Kichic R.; Chialvo D.; Manes F.; Bekinschtein T.; Ibanez A.  
-**年份**: 2014  
-**DOI**: [10.1371/journal.pone.0098769](https://doi.org/10.1371/journal.pone.0098769)  
-**原文链接**: [10/gc8x9v](https://doi.org/10/gc8x9v)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1371/journal.pone.0098769](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1371/journal.pone.0098769)  
+### [19] Sedeno, L., Couto, B., Melloni, M., Canales-Johnson, A., Yoris, A., Baez, S., Esteves, S., Velasquez, M., Barttfeld, P., Sigman, M., Kichic, R., Chialvo, D., Manes, F., Bekinschtein, T., & Ibanez, A.
+
+(2014).
+
+**How do you feel when you can't feel your body? Interoception, functional connectivity and emotional processing in depersonalization-derealization disorder.**
+
+[原文链接](https://doi.org/10.1371/journal.pone.0098769)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 首项结合行为和神经生物学测量探讨内感受与DD关系的研究。DD患者心跳检测任务表现受损，内感受状态下全脑连接性降低，且表现出情感共情特定模式损害，提示内感受和脑-体相互作用异常与DD现象相关。
 
@@ -295,27 +348,33 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [20] White matter network alterations in patients with depersonalization/derealization disorder.
-**作者**: Sierk A.; Daniels J.; Manthey A.; Kok J.; Leemans A.; Gaebler M.; Lamke J.; Kruschwitz J.; Walter H.  
-**年份**: 2018  
-**DOI**: [10.1503/jpn.170110](https://doi.org/10.1503/jpn.170110)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1503/jpn.170110](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1503/jpn.170110)  
+### [20] Sierk, A., Daniels, J., Manthey, A., Kok, J., Leemans, A., Gaebler, M., Lamke, J., Kruschwitz, J., & Walter, H.
 
-**摘要（摘要）**: DPD患者白质网络改变，左侧颞区和右侧颞顶区FA值显著低于对照，且与解离症状严重程度相关。提示多模态整合和情绪调节相关脑区间的结构连接可能异常。
+(2018).
 
-**摘要（英文）**: BACKGROUND: Depersonalization/derealization disorder (DPD) is a chronic and distressing condition characterized by detachment from oneself and/or the external world. Neuroimaging studies have associated DPD with structural and functional alterations in a variety of distinct brain regions. Such local neuronal changes might be mediated by altered interregional white matter connections. However, to our knowledge, no research on network characteristics in this patient population exists to date. METHODS: We explored the structural connectome in 23 individuals with DPD and 23 matched, healthy controls by applying graph theory to diffusion tensor imaging data. Mean interregional fractional anisotropy (FA) was used to define the network weights. Group differences were assessed using network-based statistics and a link-based controlling procedure. RESULTS: Our main finding refers to lower FA values within left temporal and right temporoparietal regions in individuals with DPD than in healthy controls when using a link-based controlling procedure. These links were also associated with dissociative symptom severity and could not be explained by anxiety or depression scores. Using network-based statistics, no significant results emerged. However, we found a trend for 1 subnetwork that may support the model of frontolimbic dysbalance suggested to underlie DPD symptomatology. LIMITATIONS: To ensure ecological validity, patients with certain comorbidities or psychotropic medication were included in the study. Confirmatory replications are necessary to corroborate the results of this explorative investigation. CONCLUSION: In patients with DPD, the structural connectivity between brain regions crucial for multimodal integration and emotion regulation may be altered. Aberrations in fibre tract communication seem to be not solely a secondary effect of local grey matter volume loss, but may present a primary pathophysiology in patients with...
+**White matter network alterations in patients with depersonalization/derealization disorder.**
+
+[原文链接](https://doi.org/10.1503/jpn.170110)
+
+**PubMed**: PubMed
+
+**摘要（中文）**: 本研究探讨DPD患者的白质网络特征。23名DPD患者和23名对照的DTI数据图论分析显示，患者左侧颞区和右侧颞顶区FA值显著低于对照，且与解离症状严重程度相关，而与焦虑抑郁无关。提示多模态整合和情绪调节相关脑区间的结构连接异常可能为DPD的初级病理生理机制。
+
+**摘要（英文）**: BACKGROUND: Depersonalization/derealization disorder (DPD) is a chronic and distressing condition characterized by detachment from oneself and/or the external world. Neuroimaging studies have associated DPD with structural and functional alterations in a variety of distinct brain regions. Such local neuronal changes might be mediated by altered interregional white matter connections. However, to our knowledge, no research on network characteristics in this patient population exists to date. METHODS: We explored the structural connectome in 23 individuals with DPD and 23 matched, healthy controls by applying graph theory to diffusion tensor imaging data. Mean interregional fractional anisotropy (FA) was used to define the network weights. Group differences were assessed using network-based statistics and a link-based controlling procedure. RESULTS: Our main finding refers to lower FA values within left temporal and right temporoparietal regions in individuals with DPD than in healthy controls when using a link-based controlling procedure. These links were also associated with dissociative symptom severity and could not be explained by anxiety or depression scores. Using network-based statistics, no significant results emerged. However, we found a trend for 1 subnetwork that may support the model of frontolimbic dysbalance suggested to underlie DPD symptomatology. LIMITATIONS: To ensure ecological validity, patients with certain comorbidities or psychotropic medication were included in the study. Confirmatory replications are necessary to corroborate the results of this explorative investigation. CONCLUSION: In patients with DPD, the structural connectivity between brain regions crucial for multimodal integration and emotion regulation may be altered. Aberrations in fibre tract communication seem to be not solely a secondary effect of local grey matter volume loss, but may present a primary pathophysiology in patients with DPD.
 
 **一句话概括**: DPD患者颞顶区白质连接降低，与解离症状严重程度相关。
 
 ---
 
-### [21] White matter abnormalities in first-episode patients with depersonalization/derealization disorder: A tract-based spatial statistics study.
-**作者**: Ning Y.; Song N.; Zhu H.; Zheng S.; Jia Y.; Yin D.; Li K.; Jia H.  
-**年份**: 2022  
-**DOI**: [10.1016/j.jad.2022.04.127](https://doi.org/10.1016/j.jad.2022.04.127)  
-**原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0165032722004712](https://linkinghub.elsevier.com/retrieve/pii/S0165032722004712)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.jad.2022.04.127)  
+### [21] Ning, Y., Song, N., Zhu, H., Zheng, S., Jia, Y., Yin, D., Li, K., & Jia, H.
+
+(2022).
+
+**White matter abnormalities in first-episode patients with depersonalization/derealization disorder: A tract-based spatial statistics study.**
+
+[原文链接](https://doi.org/10.1016/j.jad.2022.04.127)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 25名首发未用药DPD患者和23名对照的DTI扫描显示，患者右侧胼胝体和后冠状辐射FA值升高，且与CDS总分、麻木、自我非真实感、感知觉改变和时间解体正相关，提示白质微结构和认知损害与症状相关。
 
@@ -325,12 +384,15 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 
 ---
 
-### [22] Grey matter alterations in patients with depersonalization disorder: a voxel-based morphometry study
-**作者**: Daniels J.; Gaebler M.; Lamke J.; Walter H.  
-**年份**: 2015  
-**DOI**: [10.1503/jpn.130284](https://doi.org/10.1503/jpn.130284)  
-**原文链接**: [https://europepmc.org/articles/PMC4275327](https://europepmc.org/articles/PMC4275327)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1503/jpn.130284](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1503/jpn.130284)  
+### [22] Daniels, J., Gaebler, M., Lamke, J., & Walter, H.
+
+(2015).
+
+**Grey matter alterations in patients with depersonalization disorder: a voxel-based morphometry study**
+
+[原文链接](https://doi.org/10.1503/jpn.130284)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 首个探索解离障碍全脑形态学异常的VBM研究。25名DPD患者和23名对照显示，患者右侧尾状核、右侧丘脑和右侧楔叶灰质体积减小，左侧背内侧前额叶和右侧感觉区体积增大，这些改变与焦虑抑郁无关。
 
@@ -339,6 +401,7 @@ DPDR的发病机制涉及多个层面，包括神经影像学发现、神经递�
 **一句话概括**: DPD患者多个脑区灰质体积改变，涉及意识知觉相关脑区。
 
 ---
+
 
 :::info 贡献者
 本页面内容由 **郑思思** 整理编写。

@@ -10,27 +10,33 @@ DPDR的流行病学研究相对匮乏，但现有证据表明该障碍并不罕�
 
 ## 文献列表
 
-### [1] How often is the Depersonalization-Derealization Disorder (ICD-10: F48. 1) diagnosed in the outpatient health-care service?
-**作者**: Michal M.; Beutel M.; Grobe T.  
-**年份**: 2010  
-**DOI**: [10/ggwhtt](https://doi.org/10/ggwhtt)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10/ggwhtt](https://pubmed.ncbi.nlm.nih.gov/?term = 10/ggwhtt)  
+### [1] Michal, M., Beutel, M., & Grobe, T.
 
-**摘要（中文）**: 暂无摘要
+(2010).
 
-**摘要（英文）**: 暂无摘要
+**How often is the Depersonalization-Derealization Disorder (ICD-10: F48. 1) diagnosed in the outpatient health-care service?**
 
-**一句话概括**: 探讨DPDR在门诊医疗中的诊断频率。
+[原文链接](https://doi.org/10/ggwhtt)
+
+**PubMed**: PubMed
+
+**摘要（中文）**: 本研究利用德国门诊医疗数据库分析DPDR的诊断频率和临床特征。结果显示DPDR在门诊诊断中相对罕见，年诊断率约为0.005%，且常被误诊为抑郁症或焦虑障碍，提示临床医生对DPDR的认识和诊断能力有待提高。
+
+**摘要（英文）**: This study used German outpatient healthcare databases to analyze the frequency and clinical characteristics of DPDR diagnosis. Results showed that DPDR is relatively rare in outpatient diagnoses, with an annual diagnosis rate of approximately 0.005%, and is often misdiagnosed as depression or anxiety disorder, suggesting that clinicians' awareness and diagnostic ability for DPDR need improvement.
+
+**一句话概括**: DPDR在门诊诊断中罕见（年诊断率约0.005%），常被误诊为抑郁或焦虑障碍。
 
 ---
 
-### [2] Prevalence of depersonalization and derealization experiences in a rural population
-**作者**: Aderibigbe Y.; Bloch R.; Walker W.  
-**年份**: 2001  
-**DOI**: [10.1007/s001270050291](https://doi.org/10.1007/s001270050291)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1007/s001270050291](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1007/s001270050291)  
+### [2] Aderibigbe, Y., Bloch, R., & Walker, W.
+
+(2001).
+
+**Prevalence of depersonalization and derealization experiences in a rural population**
+
+[原文链接](https://doi.org/10.1007/s001270050291)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 1008名北卡罗来纳州农村成人电话调查结果显示，去人格化发生率为19.1%，去现实化为14.4%，任一解离体验为23.4%。女性显著高于男性（26.5% vs 19.5%），慢性疼痛增加解离频率，而年龄增长和就业降低频率。
 
@@ -40,12 +46,15 @@ DPDR的流行病学研究相对匮乏，但现有证据表明该障碍并不罕�
 
 ---
 
-### [3] Impact of depersonalization on the course of depression: Longitudinal observations from the gutenberg health study
-**作者**: Michal M.; Wiltink J.; Tibubos A.; Wild P.; Münzel T.; Lackner K.; Pfeiffer N.; König J.; Gieswinkel A.; Beutel M.; Kerahrodi J.  
-**年份**: 2024  
-**DOI**: [10.1186/s12888-024-05658-7](https://doi.org/10.1186/s12888-024-05658-7)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-05658-7](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1186/s12888-024-05658-7)  
+### [3] Michal, M., Wiltink, J., Tibubos, A., Wild, P., Münzel, T., Lackner, K., Pfeiffer, N., König, J., Gieswinkel, A., Beutel, M., & Kerahrodi, J.
+
+(2024).
+
+**Impact of depersonalization on the course of depression: Longitudinal observations from the gutenberg health study**
+
+[原文链接](https://doi.org/10.1186/s12888-024-05658-7)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 10422名中老年人5年随访研究显示，共病DP/DR症状的抑郁症患者与不共病者相比，生活质量更低、社会心理压力大、身体健康状况更差。共病DP/DR使抑郁复发或持续风险增加一倍以上，仅6.9%实现缓解。
 
@@ -54,6 +63,7 @@ DPDR的流行病学研究相对匮乏，但现有证据表明该障碍并不罕�
 **一句话概括**: 共病DP/DR使抑郁预后更差，复发风险增倍，缓解率仅6.9%。
 
 ---
+
 
 :::info 贡献者
 本页面内容由 **郑思思** 整理编写。

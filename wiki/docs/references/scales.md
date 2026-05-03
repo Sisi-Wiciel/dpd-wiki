@@ -10,12 +10,15 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 
 ## 文献列表
 
-### [1] Die Cambridge Depersonalisation Scale-Situational (CDS-S) zur Erfassung von situationsabhängigem Depersonalisationserleben
-**作者**: Schweden T.; Konrad A.; Hoyer J.  
-**年份**: 2019  
-**DOI**: [10.1026/0012-1924/a000232](https://doi.org/10.1026/0012-1924/a000232)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1026/0012-1924/a000232](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1026/0012-1924/a000232)  
+### [1] Schweden, T., Konrad, A., & Hoyer, J.
+
+(2019).
+
+**Die Cambridge Depersonalisation Scale-Situational (CDS-S) zur Erfassung von situationsabhängigem Depersonalisationserleben**
+
+[原文链接](https://doi.org/10.1026/0012-1924/a000232)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 本研究开发情境性剑桥去人格化量表（CDS-S）用于评估在焦虑相关情境中出现的去人格化体验。
 
@@ -25,42 +28,51 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 
 ---
 
-### [2] Reliability and validity of a Japanese version of the Cambridge depersonalization scale as a screening instrument for depersonalization disorder: Cambridge depersonalization scale
-**作者**: Sugiura M.; Hirosawa M.; Tanaka S.; Nishi Y.; Yamada Y.; Mizuno M.  
-**年份**: 06/2  
-**DOI**: [10.1111/j.1440-1819.2009.01939.x](https://doi.org/10.1111/j.1440-1819.2009.01939.x)  
-**原文链接**: [https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1819.2009.01939.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1819.2009.01939.x)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1111/j.1440-1819.2009.01939.x](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1111/j.1440-1819.2009.01939.x)  
+### [2] Sugiura, M., Hirosawa, M., Tanaka, S., Nishi, Y., Yamada, Y., & Mizuno, M.
 
-**摘要（中文）**: 暂无摘要
+(2009).
 
-**摘要（英文）**: 暂无摘要
+**Reliability and validity of a Japanese version of the Cambridge depersonalization scale as a screening instrument for depersonalization disorder**
 
-**一句话概括**: 日语版CDS作为去人格化障碍筛查工具的信效度验证。
+[原文链接](https://doi.org/10.1111/j.1440-1819.2009.01939.x)
 
----
+**PubMed**: PubMed
 
-### [3] Italian (cross cultural) adaptation and validation of the Cambridge Depersonalization Scale (CDS)
-**作者**: Migliorini V.; Dell'erba A.; Fagioli F.; Sierra M.; Mosticoni S.; Telesforo L.; Patanè M.; Consolazione M.; Fiori-Nastro P.  
-**年份**: 2012  
-**DOI**: [10.1017/S2045796011000850](https://doi.org/10.1017/S2045796011000850)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1017/S2045796011000850](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1017/S2045796011000850)  
+**摘要（中文）**: 本研究开发并验证了日语版剑桥去人格化量表（J-CDS）。J-CDS信度良好（Cronbach's α = 0.94，分半信度 = 0.93），去人格化组评分显著高于健康对照组，最佳截断点为60分，敏感性1.00，特异性0.96，支持J-CDS作为非临床环境下去人格化障碍的筛查工具。
 
-**摘要（中文）**: 暂无摘要
+**摘要（英文）**: This study developed and validated a Japanese version of the Cambridge Depersonalization Scale (J-CDS). J-CDS showed good reliability (Cronbach's α = 0.94, split-half = 0.93), with depersonalization group scoring significantly higher than healthy controls. The optimal cutoff was 60 points, with sensitivity of 1.00 and specificity of 0.96, supporting J-CDS as a screening instrument for depersonalization disorder in non-clinical settings.
 
-**摘要（英文）**: 暂无摘要
-
-**一句话概括**: 意大利语版CDS的跨文化适配与验证。
+**一句话概括**: 日语版CDS信效度良好，最佳截断点60分，敏感性1.00，特异性0.96。
 
 ---
 
-### [4] THE MULTIDIMENSIONAL INVENTORY OF DISSOCIATION (MID) IN DEPERSONALIZATION DISORDER: GENERAL FINDINGS WITH A CLINICAL EMPHASIS ON MEMORY AND IDENTITY DISTURBANCES
-**作者**: Simeon D.; Knutelska M.  
-**年份**: 2022  
-**DOI**: [10.1080/15299732.2022.2119634](https://doi.org/10.1080/15299732.2022.2119634)  
-**原文链接**: [https://www.tandfonline.com/doi/pdf/10.1080/15299732.2022.2119634](https://www.tandfonline.com/doi/pdf/10.1080/15299732.2022.2119634)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2119634](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1080/15299732.2022.2119634)  
+### [3] Migliorini, V., Dell'erba, A., Fagioli, F., Sierra, M., Mosticoni, S., Telesforo, L., Patanè, M., Consolazione, M., & Fiori-Nastro, P.
+
+(2012).
+
+**Italian (cross cultural) adaptation and validation of the Cambridge Depersonalization Scale (CDS)**
+
+[原文链接](https://doi.org/10.1017/S2045796011000850)
+
+**PubMed**: PubMed
+
+**摘要（中文）**: 本研究完成意大利语版CDS的跨文化适配与验证。结果显示意大利语版CDS在意大利人群中具有良好的信效度，Cronbach's α = 0.93，支持其在意大利人群和跨文化研究中的应用。
+
+**摘要（英文）**: This study completed cross-cultural adaptation and validation of the Italian version of the CDS. Results showed that the Italian CDS具有良好的信效度，Cronbach's α = 0.93，支持其在意大利人群和跨文化研究中的应用。
+
+**一句话概括**: 意大利语版CDS跨文化验证成功，Cronbach's α = 0.93。
+
+---
+
+### [4] Simeon, D., & Knutelska, M.
+
+(2022).
+
+**THE MULTIDIMENSIONAL INVENTORY OF DISSOCIATION (MID) IN DEPERSONALIZATION DISORDER: GENERAL FINDINGS WITH A CLINICAL EMPHASIS ON MEMORY AND IDENTITY DISTURBANCES**
+
+[原文链接](https://doi.org/10.1080/15299732.2022.2119634)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 23名DSM-IV-TR去人格化障碍患者完成MID评估。解离评分与DES、CDS和CTQ评分显著相关。提出DPD诊断公式：标准A去人格化/现实解体≥20、标准B≤28、标准C≤11，敏感性82.6%。
 
@@ -70,12 +82,15 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 
 ---
 
-### [5] Psychometric properties of the Cambridge depersonalization scale in Puerto Rico
-**作者**: Aponte-Soto M.; Vélez-Pastrana M.; Martínez-Taboas A.; González R.  
-**年份**: 2014  
-**DOI**: [10.1080/15299732.2013.856370](https://doi.org/10.1080/15299732.2013.856370)  
-**原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2013.856370](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1080/15299732.2013.856370)  
+### [5] Aponte-Soto, M., Vélez-Pastrana, M., Martínez-Taboas, A., & González, R.
+
+(2014).
+
+**Psychometric properties of the Cambridge depersonalization scale in Puerto Rico**
+
+[原文链接](https://doi.org/10.1080/15299732.2013.856370)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 300名波多黎各社区成人完成CDS西班牙语版评估，探索性和验证性因子分析支持四因子解，四因子结构与DES中度相关（r = 0.64），提示CDS可可靠测量拉丁裔人群的去人格化体验。
 
@@ -85,12 +100,15 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 
 ---
 
-### [6] Construct Validity of Three Depersonalization Measures in Trauma-Exposed College Students
-**作者**: Blevins C.; Weathers F.; Mason E.  
-**年份**: 2012  
-**DOI**: [10.1080/15299732.2012.678470](https://doi.org/10.1080/15299732.2012.678470)  
-**原文链接**: [https://doi.org/10.1080/15299732.2012.678470](https://doi.org/10.1080/15299732.2012.678470)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2012.678470](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1080/15299732.2012.678470)  
+### [6] Blevins, C., Weathers, F., & Mason, E.
+
+(2012).
+
+**Construct Validity of Three Depersonalization Measures in Trauma-Exposed College Students**
+
+[原文链接](https://doi.org/10.1080/15299732.2012.678470)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 209名有创伤暴露的大学生完成三种解离量表（DES、CDS、MDI）评估。CDS和MDI显示最佳内容效度和构念效度，支持使用这两个量表评估创伤人群的去人格化。
 
@@ -100,12 +118,15 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 
 ---
 
-### [7] Dissociative symptoms as measured by the Cambridge Depersonalization Scale in patients with a bipolar disorder
-**作者**: Tuineag M.; Therman S.; Lindgren M.; Rouanet M.; Nahon S.; Bertrand L.; Saury S.; Renaud S.; Beaulieu S.; Linnaranta O.  
-**年份**: 02/2  
-**DOI**: [10.1016/j.jad.2019.11.137](https://doi.org/10.1016/j.jad.2019.11.137)  
-**原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0165032719317586](https://linkinghub.elsevier.com/retrieve/pii/S0165032719317586)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2019.11.137](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.jad.2019.11.137)  
+### [7] Tuineag, M., Therman, S., Lindgren, M., Rouanet, M., Nahon, S., Bertrand, L., Saury, S., Renaud, S., Beaulieu, S., & Linnaranta, O.
+
+(02/2).
+
+**Dissociative symptoms as measured by the Cambridge Depersonalization Scale in patients with a bipolar disorder**
+
+[原文链接](https://doi.org/10.1016/j.jad.2019.11.137)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 73名双相障碍患者完成CDS评估。单维度模型拟合良好（ω = 0.96），CDS与抑郁严重程度（ρ = 0.59）、社交焦虑（ρ = 0.52）、童年创伤问卷（ρ = 0.44）显著相关。研究提出14题和7题简版CDS用于筛查。
 
@@ -115,12 +136,15 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 
 ---
 
-### [8] Reliability, Validity, and Psychometric Properties of the Greek Translation of the Cambridge Depersonalization Scale (CDS)
-**作者**: Kontoangelos K.; Tsiori S.; Poulakou G.; Protopapas K.; Katsarolis I.; Sakka V.; Kavatha D.; Papadopoulos A.; Antoniadou A.; Papageorgiou C.  
-**年份**: 2016  
-**DOI**: [10.5455/msm.2016.28.387-391](https://doi.org/10.5455/msm.2016.28.387-391)  
-**原文链接**: [http://www.scopemed.org/fulltextpdf.php?mno = 246148](http://www.scopemed.org/fulltextpdf.php?mno = 246148)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.5455/msm.2016.28.387-391](https://pubmed.ncbi.nlm.nih.gov/?term = 10.5455/msm.2016.28.387-391)  
+### [8] Kontoangelos, K., Tsiori, S., Poulakou, G., Protopapas, K., Katsarolis, I., Sakka, V., Kavatha, D., Papadopoulos, A., Antoniadou, A., & Papageorgiou, C.
+
+(2016).
+
+**Reliability, Validity, and Psychometric Properties of the Greek Translation of the Cambridge Depersonalization Scale (CDS)**
+
+[原文链接](https://doi.org/10.5455/msm.2016.28.387-391)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 294名希腊人完成CDS希腊语版评估。五因子解决方案解释58.2%总变异，Cronbach's α = 0.938，分半信度 = 0.921，重测信度良好（ICC = 0.883），与SCL-90高度相关，提示希腊版CDS可靠有效。
 
@@ -130,12 +154,15 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 
 ---
 
-### [9] Factor structure of the Cambridge Depersonalization Scale in trauma-exposed college students
-**作者**: Blevins C.; Witte T.; Weathers F.  
-**年份**: 2013  
-**DOI**: [10.1080/15299732.2012.729555](https://doi.org/10.1080/15299732.2012.729555)  
-**原文链接**: [10.1080/15299732.2012.729555](https://doi.org/10.1080/15299732.2012.729555)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2012.729555](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1080/15299732.2012.729555)  
+### [9] Blevins, C., Witte, T., & Weathers, F.
+
+(2013).
+
+**Factor structure of the Cambridge Depersonalization Scale in trauma-exposed college students**
+
+[原文链接](https://doi.org/10.1080/15299732.2012.729555)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 534名创伤暴露大学生完成CDS评估，探索性和验证性因子分析不支持文献中报告的因子结构，支持两因子解决方案：一因子代表非真实感和脱离感，二因子代表情绪和身体麻木。
 
@@ -145,12 +172,15 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 
 ---
 
-### [10] Unpacking the depersonalization syndrome: an exploratory factor analysis on the Cambridge Depersonalization Scale
-**作者**: SIERRA M.; BAKER D.; MEDFORD N.; DAVID A.  
-**年份**: 2005  
-**DOI**: [10.1017/S0033291705005325](https://doi.org/10.1017/S0033291705005325)  
-**原文链接**: [https://www.cambridge.org/core/product/identifier/S0033291705005325/type/journal_article](https://www.cambridge.org/core/product/identifier/S0033291705005325/type/journal_article)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1017/S0033291705005325](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1017/S0033291705005325)  
+### [10] SIERRA, M., BAKER, D., MEDFORD, N., & DAVID, A.
+
+(2005).
+
+**Unpacking the depersonalization syndrome: an exploratory factor analysis on the Cambridge Depersonalization Scale**
+
+[原文链接](https://doi.org/10.1017/S0033291705005325)
+
+**PubMed**: PubMed
 
 **摘要（中文）**: 138名去人格化障碍患者完成CDS探索性因子分析，提取四个因子解释73.3%方差：异常身体体验、情绪麻木、异常主观回忆和周围疏离感，提示去人格化症状属于不同但相关的精神病理域。
 
@@ -159,6 +189,7 @@ description: 解离性人格解体/现实解体障碍（DPDR）相关评估量�
 **一句话概括**: CDS提取四因子：异常身体体验、情绪麻木、异常主观回忆和周围疏离感。
 
 ---
+
 
 :::info 贡献者
 本页面内容由 **郑思思** 整理编写。
