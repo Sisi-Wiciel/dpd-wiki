@@ -42,97 +42,17 @@
   background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' fill='white' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z'/%3E%3C/svg%3E") no-repeat;
 }
 
-/* Admonition custom emoji icons */
-.admonition-info {
-  --admonition-icon-read-more: "";
-  --admonition-icon-info: "";
-}
-.admonition-info .admonition-heading {
-  font-size: 0;
-}
-.admonition-info .admonition-heading::before {
-  content: "💡";
-  font-size: 1.1rem;
-  margin-right: 0.4rem;
-}
+/* Admonition emoji icons - replace SVG icons with emoji */
+/* Use attribute selectors to beat Docusaurus CSS Modules hashing */
+[class*="theme-admonition-"] [class*="Icon"] { display: none !important; }
 
-.admonition-important {
-  --admonition-icon-read-more: "";
-  --admonition-icon-tip: "";
-}
-.admonition-important .admonition-heading {
-  font-size: 0;
-}
-.admonition-important .admonition-heading::before {
-  content: "🔴";
-  font-size: 1.1rem;
-  margin-right: 0.4rem;
-}
-
-.admonition-tip {
-  --admonition-icon-read-more: "";
-  --admonition-icon-tip: "";
-}
-.admonition-tip .admonition-heading {
-  font-size: 0;
-}
-.admonition-tip .admonition-heading::before {
-  content: "🎯";
-  font-size: 1.1rem;
-  margin-right: 0.4rem;
-}
-
-.admonition-warning {
-  --admonition-icon-read-more: "";
-  --admonition-icon-warning: "";
-}
-.admonition-warning .admonition-heading {
-  font-size: 0;
-}
-.admonition-warning .admonition-heading::before {
-  content: "⚠️";
-  font-size: 1.1rem;
-  margin-right: 0.4rem;
-}
-
-.admonition-success {
-  --admonition-icon-read-more: "";
-  --admonition-icon-success: "";
-}
-.admonition-success .admonition-heading {
-  font-size: 0;
-}
-.admonition-success .admonition-heading::before {
-  content: "🌱";
-  font-size: 1.1rem;
-  margin-right: 0.4rem;
-}
-
-.admonition-practice {
-  --admonition-icon-read-more: "";
-  --admonition-icon-tip: "";
-}
-.admonition-practice .admonition-heading {
-  font-size: 0;
-}
-.admonition-practice .admonition-heading::before {
-  content: "✏️";
-  font-size: 1.1rem;
-  margin-right: 0.4rem;
-}
-
-.admonition-courage {
-  --admonition-icon-read-more: "";
-  --admonition-icon-tip: "";
-}
-.admonition-courage .admonition-heading {
-  font-size: 0;
-}
-.admonition-courage .admonition-heading::before {
-  content: "💪";
-  font-size: 1.1rem;
-  margin-right: 0.4rem;
-}
+[class*="theme-admonition-info"] [class*="Heading"]::before { content: "💡" !important; font-size: 1.2rem; vertical-align: middle; }
+[class*="theme-admonition-tip"] [class*="Heading"]::before { content: "🎯" !important; font-size: 1.2rem; vertical-align: middle; }
+[class*="theme-admonition-important"] [class*="Heading"]::before { content: "🔴" !important; font-size: 1.2rem; vertical-align: middle; }
+[class*="theme-admonition-warning"] [class*="Heading"]::before { content: "⚠️" !important; font-size: 1.2rem; vertical-align: middle; }
+[class*="theme-admonition-success"] [class*="Heading"]::before { content: "🌱" !important; font-size: 1.2rem; vertical-align: middle; }
+[class*="theme-admonition-practice"] [class*="Heading"]::before { content: "✏️" !important; font-size: 1.2rem; vertical-align: middle; }
+[class*="theme-admonition-courage"] [class*="Heading"]::before { content: "💪" !important; font-size: 1.2rem; vertical-align: middle; }
 
 /* Smooth scrolling */
 html {

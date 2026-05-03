@@ -7,10 +7,6 @@ const config: Config = {
   tagline: '人格解体-现实解体障碍知识库',
   favicon: 'img/favicon.ico',
 
-  future: {
-    v4: true,
-  },
-
   url: 'https://wiki.depersonalization.site',
   baseUrl: '/',
 
