@@ -27,6 +27,19 @@ description: 安全参与 DPDR 相关在线社区的建议
 - 知乎心理健康话题
 - 豆瓣相关小组
 
+### 我们的平台
+
+:::info 🌐 DPDR 门户网站
+**[home.depersonalization.site](https://home.depersonalization.site)**
+
+综合性 DPDR 患者支持平台，提供症状知识库、应对策略、文献资源和社区支持。
+
+- 症状与诊断知识
+- 循证应对策略
+- 最新研究文献
+- 在线社区入口
+:::
+
 ---
 
 ## 英文社区
