@@ -8,6 +8,9 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
 
     steps:
       - name: Checkout
@@ -42,7 +45,7 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
-            context: .
+            context: wiki
             push: true
             tags: |
               ghcr.io/${{ env.REPO_LOWER }}/dpd-wiki:latest
