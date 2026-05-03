@@ -17,26 +17,11 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 **原文链接**: [https://doi.org/10.1037/xhp0001153](https://doi.org/10.1037/xhp0001153)  
 **PubMed**: 无  
 
-
 **一句话概括**: DPDR患者对身体自我的优先级处理受损，但不影响抽象自我相关信息。
 
 ---
 
-**作者**: OpenClaw; Zheng S.  
-**年份**:   
-**DOI**: 无  
-**原文链接**: [本地文档](https://www.zotero.org/groups/4182841)  
-**PubMed**: 无  
-
-**摘要（中文）**: 关于 DPDR 中自我真实感、环境真实感、自我—环境边界与相关任务范式的文献整理与评述，服务于后续任务平台设计。
-
-**摘要（英文）**: 关于 DPDR 中自我真实感、环境真实感、自我—环境边界与相关任务范式的文献整理与评述，服务于后续任务平台设计。
-
-**一句话概括**: 系统整理DPDR自我真实感与环境真实感任务范式文献。
-
----
-
-### [4] Depersonalization/derealization disorder and neural correlates of trauma-related pathology: A critical review
+### [2] Depersonalization/derealization disorder and neural correlates of trauma-related pathology: A critical review
 **作者**: Murphy R.  
 **年份**: 2023  
 **DOI**: 无  
@@ -51,12 +36,12 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 
 ---
 
-### [5] Unraveling the brain dynamics of depersonalization-derealization disorder: A dynamic functional network connectivity analysis.
+### [3] Unraveling the brain dynamics of depersonalization-derealization disorder: A dynamic functional network connectivity analysis.
 **作者**: Zheng S.; Zhang F.; Shum H.; Zhang H.; Song N.; Song M.; Jia H.  
 **年份**: 2024  
 **DOI**: [10.1186/s12888-024-06096-1](https://doi.org/10.1186/s12888-024-06096-1)  
 **原文链接**: [https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06096-1](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06096-1)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06096-1](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1186/s12888-024-06096-1)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06096-1](https://pubmed.ncbi.nlm.nih.gov/?term=10.1186/s12888-024-06096-1)  
 
 **摘要（中文）**: 本研究招募84名右利手DPD患者和67名健康对照，通过静息态功能磁共振和动态功能网络连接分析，探索DPD的脑动态特征。研究发现DPD患者在额顶网络、感觉运动网络和默认模式网络中存在特定脑网络改变，且tDCS干预可显著改变部分脑状态。
 
@@ -66,12 +51,12 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 
 ---
 
-### [6] White matter abnormalities in first-episode patients with depersonalization/derealization disorder: A tract-based spatial statistics study.
+### [4] White matter abnormalities in first-episode patients with depersonalization/derealization disorder: A tract-based spatial statistics study.
 **作者**: Ning Y.; Song N.; Zhu H.; Zheng S.; Jia Y.; Yin D.; Li K.; Jia H.  
 **年份**: 2022  
 **DOI**: [10.1016/j.jad.2022.04.127](https://doi.org/10.1016/j.jad.2022.04.127)  
 **原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0165032722004712](https://linkinghub.elsevier.com/retrieve/pii/S0165032722004712)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.jad.2022.04.127)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127)  
 
 **摘要（中文）**: 本研究首次探讨未用药首发DPD患者的白质微结构异常。DPD患者右侧胼胝体和后冠状辐射FA值升高，且与症状严重程度和认知损害相关，提示白质完整性异常可作为DPD潜在生物标志物。
 
@@ -81,12 +66,12 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 
 ---
 
-### [7] Altered self-referential-related brain regions in depersonalization-derealization disorder.
+### [5] Altered self-referential-related brain regions in depersonalization-derealization disorder.
 **作者**: Jia Y.; Song N.; Ning Y.; Zhu H.; Dong L.; Feng S.; Jia H.; Song M.; Zheng S.  
 **年份**: 2025  
 **DOI**: [10.1002/brb3.70314](https://doi.org/10.1002/brb3.70314)  
 **原文链接**: [https://onlinelibrary.wiley.com/doi/10.1002/brb3.70314](https://onlinelibrary.wiley.com/doi/10.1002/brb3.70314)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/brb3.70314](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1002/brb3.70314)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/brb3.70314](https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/brb3.70314)  
 
 **摘要（中文）**: 本研究利用静息态功能磁共振探索DPD患者自我参照加工相关脑区的拓扑和网络特性改变。DPD患者在自我参照网络中表现出显著的连接改变，机器学习分类模型准确率达88.5%，AUC为0.928，提示皮层中线结构和岛叶改变可能与DPD机制相关。
 
@@ -96,12 +81,12 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 
 ---
 
-### [8] Self-portrait of a stranger: Self-face representation and interoception in depersonalization experiences
+### [6] Self-portrait of a stranger: Self-face representation and interoception in depersonalization experiences
 **作者**: Maister L.; Ciaunica A.  
 **年份**: 2025  
 **DOI**: [10.1016/j.cognition.2025.106261](https://doi.org/10.1016/j.cognition.2025.106261)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.cognition.2025.106261](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.cognition.2025.106261)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.cognition.2025.106261](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.cognition.2025.106261)  
 
 **摘要（中文）**: 本研究首次探讨DPD患者长期自我面孔表征的损害。DPD症状较重的个体自我面孔表征准确率较低但精确度和信息含量反而较高，提示他们可能将一个不同但不准确的"陌生"面孔表征为自我。独立评估者发现高DPD参与者的自我表征面孔更冷漠、更年轻，且与内感受敏感性相关。
 
@@ -111,12 +96,12 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 
 ---
 
-### [9] Depersonalization disorder: Directed forgetting as a function of emotionality
+### [7] Depersonalization disorder: Directed forgetting as a function of emotionality
 **作者**: Simeon D.; Knutelska M.  
 **年份**: 2023  
 **DOI**: [10.1080/15299732.2022.2136328](https://doi.org/10.1080/15299732.2022.2136328)  
 **原文链接**: 无  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2136328](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1080/15299732.2022.2136328)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2136328](https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2136328)  
 
 **摘要（中文）**: 本研究探讨DPD患者对情绪信息的主动遗忘能力。DPD组对负性词的定向遗忘显著低于对照组，且解离评分与负性词的反向遗忘相关，提示DPD患者在主动控制注意力以回避情绪困扰方面存在缺陷。
 
@@ -126,12 +111,12 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 
 ---
 
-### [10] Behavioural, autonomic, and neural responsivity in depersonalisation-derealisation disorder: A systematic review of experimental evidence.
+### [8] Behavioural, autonomic, and neural responsivity in depersonalisation-derealisation disorder: A systematic review of experimental evidence.
 **作者**: Millman L.; Huang X.; Wainipitapong S.; Medford N.; Pick S.  
 **年份**: 2024  
 **DOI**: [10.1016/j.neubiorev.2024.105783](https://doi.org/10.1016/j.neubiorev.2024.105783)  
 **原文链接**: [https://linkinghub.elsevier.com/retrieve/pii/S0149763424002525](https://linkinghub.elsevier.com/retrieve/pii/S0149763424002525)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783](https://pubmed.ncbi.nlm.nih.gov/?term = 10.1016/j.neubiorev.2024.105783)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783)  
 
 **摘要（中文）**: 本系统综述综合了DDD患者行为、自主神经和神经反应性的实验证据。研究发现DDD患者对厌恶刺激的主观反应性降低、情绪调节相关神经回路过度激活，但行为和自主神经反应性结果不一致。常见混杂因素包括小样本量、药物使用和共病。
 
@@ -141,20 +126,18 @@ DPDR（Depersonalization-Derealization Disorder）是一种以持续或反复的
 
 ---
 
-### [11] Depersonalization-derealization disorder: Etiological mechanism, diagnosis and management
+### [9] Depersonalization-derealization disorder: Etiological mechanism, diagnosis and management
 **作者**: Wilkhoo H.; Islam A.; Reji F.; Sanghvi L.; Potdar R.; Solanki S.  
 **年份**:   
 **DOI**: [10.15190/d.2024.09](https://doi.org/10.15190/d.2024.09)  
 **原文链接**: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11910194/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11910194/)  
-**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.15190/d.2024.09](https://pubmed.ncbi.nlm.nih.gov/?term = 10.15190/d.2024.09)  
+**PubMed**: [https://pubmed.ncbi.nlm.nih.gov/?term=10.15190/d.2024.09](https://pubmed.ncbi.nlm.nih.gov/?term=10.15190/d.2024.09)  
 
 **摘要（中文）**: 本综述深入探讨DPDR的复杂性问题，涵盖临床表现、流行病学、病因学、诊断和管理。DPDR确切病因仍不明确，但影像学研究提示与脑白质、灰质、尾状核、杏仁核等结构功能改变相关。治疗需整合心理治疗、药物治疗和生活方式干预，CBT和SSRIs/SNRIs是主要干预手段。
 
-**摘要（英文）**: This comprehensive review delves into the complexities surrounding Depersonalization-Derealization disorder (DPDR), a dissociative disorder characterized by enduring feelings of detachment from one's self and surroundings. Tracing its historical roots back to 19th-century descriptions and its current classification as a singular disorder, the review meticulously explores the clinical presentation, epidemiology, etiology, diagnosis, and management of DPDR. Despite many trials and studies conducted the exact cause of this condition is still unknown. The best way to understand its etiology is by taking into account its clinical presentations and linking it to different structural and functional alterations of the brain. Alteration in cortical activity and structure associated with white matter, gray matter, caudate nucleus, amygdala, and other areas like Broadman's areas of cortex are analyzed to be potential mechanisms for etiology. With a concerning rise in its prevalence globally and notable impact on adolescents and young adults, DPDR manifests through a spectrum of symptoms including depersonalization, and derealization, and often accompanies comorbidities such as anxiety and depression. While the precise cause remains elusive, factors such as traumatic experiences, stress, and genetic predispositions have been implicated, with modern neuroimaging studies offering insight into potential structural and functional brain alterations. Managing DPDR necessitates a multifaceted approach integrating psychotherapy, pharmacotherapy, and lifestyle interventions, with cognitive-behavioral therapy (CBT) and pharmacological agents like SSRIs and SNRIs emerging as primary interventions. The importance of early detection and intervention is crucial for improving its prognosis. Unfortunately, DPDR is highly understudied to date. Due to a scarcity of scientific literature about DPDR in recent years, it has become very challenging to get a proper in-depth understanding of this condition.
+**摘要（英文）**: This comprehensive review delves into the complexities surrounding Depersonalization-Derealization disorder (DPDR), a dissociative disorder characterized by enduring feelings of detachment from one's self and surroundings. Tracing its historical roots back to 19th-century descriptions and its current classification as a singular disorder, the review meticulously explores the clinical presentation, epidemiology, etiology, diagnosis, and management of DPDR. Despite many trials and studies conducted the exact cause of this condition is still unknown. The best way to understand its etiology is by taking into account its clinical presentations and linking it to different structural and functional alterations of the brain. Alteration in cortical activity and structure associated with white matter, gray matter, caudate nucleus, amygdala, and other areas like Broadman's areas of cortex are analyzed to be potential mechanisms for etiology. With a concerning rise in its prevalence globally and notable impact on adolescents and young adults, DPDR manifests through a spectrum of symptoms including depersonalization, and derealization, and often accompanies comorbidities such as anxiety and depression. While the precise cause remains elusive, factors such as traumatic experiences, stress, and genetic predispositions have been implicated, with modern neuroimaging studies offering insight into potential structural and functional brain alterations. Managing DPDR necessitates a multifaceted approach integrating psychotherapy, pharmacotherapy, and lifestyle interventions, with cognitive-behavioral therapy (CBT) and pharmacological agents like SSRIs and SNRIs emerging as primary interventions. The importance of early detection and intervention is crucial for improving its prognosis. Unfortunately, DPDR is highly understudied to date. Due to a scarcity of scientific literature about DPDR in recent years, it has become very challenging to get a proper in-depth understanding ...
 
 **一句话概括**: DPDR是多因素复杂疾病，需综合干预，早期识别对预后至关重要。
-
----
 
 :::info 贡献者
 本页面内容由 **郑思思** 整理编写。
