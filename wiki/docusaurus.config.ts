@@ -58,7 +58,7 @@ const config: Config = {
           label: '知识库',
         },
         {
-          href: '/docs/references/dpdr',
+          href: '/docs/references/综述/综述',
           position: 'left',
           label: '文献',
         },
