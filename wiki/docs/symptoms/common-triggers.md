@@ -80,4 +80,4 @@ description: 了解什么因素可能触发人格解体或现实解体
 2. [[10] DDD 行为、自主神经和神经反应性系统综述](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783)
 3. [[1] DDD 症状变异性的潜剖面分析](https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/jclp.23241)
 
-> 完整文献列表见 [症状文献](../references/symptoms)
+> 完整文献列表见 [症状文献](../references/症状)

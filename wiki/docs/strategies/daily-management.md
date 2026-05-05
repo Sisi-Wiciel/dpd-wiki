@@ -115,7 +115,7 @@ description: 将 DPDR 管理融入日常生活的实用建议
 2. [[10] DDD 行为、自主神经和神经反应性系统综述](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783)
 3. [[1] DDD 症状变异性的潜剖面分析](https://pubmed.ncbi.nlm.nih.gov/?term=10.1002/jclp.23241)
 
-> 完整文献列表见 [症状文献](../references/symptoms)
+> 完整文献列表见 [症状文献](../references/症状)
 
 :::info 贡献者
 本页面内容由 **郑思思** 整理编写。如需更正或补充，欢迎联系。

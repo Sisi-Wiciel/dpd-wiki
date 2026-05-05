@@ -179,7 +179,7 @@ rTMS 需要在有神经调控设备的医院或诊所进行，通常一个疗程
 8. [[13] 在线舞蹈/运动疗法减轻 DDD 身体脱离](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.ctcp.2023.101749)
 9. [[14] MBCT 治疗 DPD 案例报告](https://pubmed.ncbi.nlm.nih.gov/?term=10.1177/02537176211040259)
 
-> 完整文献列表见 [治疗参考文献](../references/treatment)
+> 完整文献列表见 [治疗参考文献](../references/治疗)
 
 :::info 贡献者
 本页面内容由 **郑思思** 整理编写。

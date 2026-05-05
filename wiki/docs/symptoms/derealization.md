@@ -62,7 +62,7 @@ DPD 患者存在**动态功能网络连接**异常 [[1]](https://pubmed.ncbi.nlm
 
 1. [[5] DPD 动态脑网络状态异常及 tDCS 干预](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-024-06096-1)
 
-> 完整文献列表见 [DPDR 文献](../references/dpdr)
+> 完整文献列表见 [DPDR 文献](../references/综述)
 
 ## 相关资源
 

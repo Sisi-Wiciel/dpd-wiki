@@ -81,7 +81,7 @@ DPD 患者对**负性情绪词主动遗忘能力**显著受损 [[5]](https://pub
 4. [[6] DPD 患者白质异常](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.jad.2022.04.127)
 5. [[9] DPD 患者的情绪注意控制缺陷](https://pubmed.ncbi.nlm.nih.gov/?term=10.1080/15299732.2022.2136328)
 
-> 完整文献列表见 [DPDR 文献](../references/dpdr)
+> 完整文献列表见 [DPDR 文献](../references/综述)
 
 ## 相关资源
 

@@ -126,7 +126,7 @@ description: 实用的着陆技术帮助回到当下
 1. [[13] 在线舞蹈/运动疗法减轻 DDD 身体脱离](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.ctcp.2023.101749) — 身体觉察训练直接支持着陆技术原理
 2. [[10] DPDR 行为、自主神经和神经反应性系统综述](https://pubmed.ncbi.nlm.nih.gov/?term=10.1016/j.neubiorev.2024.105783) — 内感受敏感性异常机制
 
-> 完整文献列表见 [治疗参考文献](../references/treatment)
+> 完整文献列表见 [治疗参考文献](../references/治疗)
 
 :::info 贡献者
 本页面内容由 **郑思思** 整理编写。如需更正或补充，欢迎联系。
