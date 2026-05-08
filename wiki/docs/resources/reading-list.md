@@ -15,15 +15,15 @@ description: 推荐的 DPDR 相关书籍和资料
 
 ### 英文（权威）
 
-- **"Feeling Unreal"** by Daphne Simeon & Jeffrey Abugel
+- **“Feeling Unreal”** by Daphne Simeon & Jeffrey Abugel
   - 第一本专门关于 depersonalization 的临床书籍
   - 由该领域领先专家撰写
 
-- **"The Dissociative Mind"** by Elizabeth Howell
+- **“The Dissociative Mind”** by Elizabeth Howell
   - 深入探讨解离的复杂机制
   - 适合专业人士和深入学习者
 
-- **"Processing Trauma"** by Joseph M. Curry
+- **“Processing Trauma”** by Joseph M. Curry
   - 创伤与 DPDR 的关系
   - 实践性指导
 
