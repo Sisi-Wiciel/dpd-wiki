@@ -7,7 +7,7 @@ const config: Config = {
   tagline: '人格解体-现实解体障碍知识库',
   favicon: 'img/favicon.ico',
 
-  url: 'https://wiki.depersonalization.site',
+  url: 'https://wiki.depersonalization.top',
   baseUrl: '/',
 
   organizationName: 'Sisi-Wiciel',
